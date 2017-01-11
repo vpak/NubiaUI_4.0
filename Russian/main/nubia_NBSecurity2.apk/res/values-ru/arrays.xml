@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="common_harass_categories">
-        <item>Сообщения</item>
-        <item>Вызовы</item>
+        <item>SMS</item>
+        <item>Звонки</item>
         <item>Управление</item>
     </string-array>
     <string-array name="common_pattern_safe_questions">
-        <item>Дата рождения вашей матери?</item>
-        <item>Дата рождения вашего отца?</item>
-        <item>Самый важный человек в вашей жизни?</item>
-        <item>Место, которое вы хотите посетить?</item>
-        <item>Ваш любимый цвет?</item>
-        <item>Самый важный день в вашей жизни?</item>
+        <item>Когда день рождения моей мамы?</item>
+        <item>Когда день рождения моего отца?</item>
+        <item>Кто самый важный человек в моей жизни?</item>
+        <item>Куда бы мне хотелось отправиться в путешествие?</item>
+        <item>Мой любимый цвет?</item>
+        <item>Какой день самый важный в моей жизни?</item>
     </string-array>
     <string-array name="mtk_app_ops_permissions">
-        <item>Allowed</item>
-        <item>Ignored</item>
-        <item>Always ask</item>
+        <item>Разрешено</item>
+        <item>Запрещено</item>
+        <item>Всегда спрашивать</item>
     </string-array>
     <string-array name="mtk_app_ops_op_category">
-        <item>Privacy</item>
-        <item>Security</item>
+        <item>Конфиденциальность</item>
+        <item>Безопасность</item>
     </string-array>
     <string-array name="mtk_app_ops_categories">
         <item>Authority</item>
-        <item>Application</item>
+        <item>Приложение</item>
     </string-array>
     <string-array name="mtk_app_ops_op_group">
-        <item>Privacy related</item>
-        <item>Security related</item>
+        <item>Связано с конфиденциальностью</item>
+        <item>Связано с безопасностью</item>
     </string-array>
     <string-array name="mtk_app_ops_summaries">
-        <item>Approximate location</item>
-        <item>Accurate location</item>
+        <item>Ориентировочное местоположение</item>
+        <item>Точное местоположение</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>write contacts</item>
-        <item>read call log</item>
-        <item>write call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>WLAN scan</item>
-        <item>notification</item>
-        <item>Mobile network scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
+        <item>доступ к вибрации</item>
+        <item>чтение контактов</item>
+        <item>добавление контактов</item>
+        <item>чтение журнала звонков</item>
+        <item>записывать журнал вызовов</item>
+        <item>чтение календаря</item>
+        <item>изменение календаря</item>
+        <item>сканирование Wi-Fi</item>
+        <item>доступ к уведомлениям</item>
+        <item>сканирование моб. сетей</item>
+        <item>совершение звонков</item>
+        <item>чтение SMS</item>
+        <item>отправка SMS</item>
+        <item>получение SMS</item>
+        <item>получение экстренных SMS</item>
+        <item>получение MMS</item>
+        <item>получение WAP push</item>
+        <item>отправка SMS</item>
+        <item>чтение ICC SMS</item>
+        <item>создание ICC SMS</item>
+        <item>изменение настроек</item>
+        <item>рисовать поверх</item>
+        <item>доступ к уведомлениям</item>
+        <item>доступ к камере</item>
+        <item>записывать звук</item>
+        <item>воспроизводить звук</item>
+        <item>читать буфер обмена</item>
+        <item>изменять буфер обмена</item>
         <item>media buttons</item>
         <item>audio focus</item>
         <item>master volume</item>
@@ -79,8 +79,8 @@
         <item>toast window</item>
         <item>project media</item>
         <item>activate VPN</item>
-        <item>Turn on WLAN</item>
-        <item>Turn on Bluetooth</item>
+        <item>Включать Wi-Fi</item>
+        <item>Включать Bluetooth</item>
         <item>send MMS</item>
         <item>read MMS</item>
         <item>write MMS</item>
@@ -199,32 +199,32 @@
         <item>use HotKnot</item>
     </string-array>
     <string-array name="perm_status_entry">
-        <item>Always allow</item>
-        <item>Always ask</item>
-        <item>Always deny</item>
+        <item>Всегда разрешено</item>
+        <item>Всегда запрашивать</item>
+        <item>Всегда запрещено</item>
     </string-array>
     <string-array name="app_ops_permissions">
-        <item>Разрешить</item>
-        <item>Игнорировать</item>
-        <item>Всегда спрашивать</item>
+        <item>Разрешено</item>
+        <item>Запрещено</item>
+        <item>Всегда запрашивать</item>
     </string-array>
     <string-array name="app_ops_op_category">
-        <item>Privacy</item>
-        <item>Security</item>
+        <item>Конфиденциальность</item>
+        <item>Безопасность</item>
     </string-array>
     <string-array name="app_ops_summaries_4_3">
-        <item>грубое местоположение</item>
-        <item>точное местоположение</item>
+        <item>Ориентировочное местоположение</item>
+        <item>Точное местоположение</item>
         <item>GPS</item>
-        <item>вибрация</item>
+        <item>доступ к вибрации</item>
         <item>читать контакты</item>
         <item>изменять контакты</item>
         <item>читать журнал вызовов</item>
-        <item>изменять журнал вызовов</item>
+        <item>записывать журнал вызовов</item>
         <item>читать календарь</item>
         <item>изменять календарь</item>
         <item>сканировать Wi-Fi</item>
-        <item>уведомления</item>
+        <item>доступ к уведомлениям</item>
         <item>сканировать моб. сеть</item>
         <item>совершать звонки</item>
         <item>читать SMS</item>
@@ -239,7 +239,7 @@
         <item>изменять настройки</item>
         <item>изменять приоритет</item>
         <item>доступ к уведомлениям</item>
-        <item>камера</item>
+        <item>доступ к камере</item>
         <item>записывать звук</item>
         <item>воспроизводить звук</item>
         <item>читать буфер обмена</item>
@@ -252,43 +252,43 @@
         <item>отправлять MMS</item>
     </string-array>
     <string-array name="app_ops_labels_4_3">
-        <item>Местоположение</item>
-        <item>Местоположение</item>
-        <item>Местоположение</item>
-        <item>Вибрация</item>
+        <item>Доступ к местоположению</item>
+        <item>Доступ к местоположению</item>
+        <item>Доступ к местоположению</item>
+        <item>Доступ к вибрации</item>
         <item>Читать контакты</item>
         <item>Изменять контакты</item>
         <item>Читать журнал вызовов</item>
-        <item>Изменять журнал вызовов</item>
+        <item>Записывать журнал вызовов</item>
         <item>Читать календарь</item>
         <item>Изменять календарь</item>
-        <item>Местоположение</item>
-        <item>Уведомления</item>
-        <item>Местоположение</item>
+        <item>Доступ к местоположению</item>
+        <item>Доступ к уведомлениям</item>
+        <item>Доступ к местоположению</item>
         <item>Совершать звонки</item>
         <item>Читать SMS</item>
-        <item>Получать SMS</item>
+        <item>Отправлять SMS</item>
         <item>Получать SMS</item>
         <item>Получать SMS</item>
         <item>Получать MMS</item>
-        <item>Получать SMS</item>
-        <item>Отправлять SMS</item>
-        <item>Читать SMS</item>
-        <item>Писать SMS</item>
-        <item>Изменять настройки</item>
-        <item>Изменять приоритет</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Чтение SMS</item>
+        <item>Составление SMS</item>
+        <item>Изменение настроек</item>
+        <item>Всплывающие окна</item>
         <item>Доступ к уведомлениям</item>
         <item>Камера</item>
-        <item>Записывать звук</item>
-        <item>Воспроизводить звук</item>
-        <item>Читать буфер обмена</item>
-        <item>Изменять буфер обмена</item>
-        <item>Включать Wi-Fi</item>
-        <item>Включать Bluetooth</item>
-        <item>Включать передачу данных</item>
-        <item>Отправлять MMS</item>
-        <item>Читать MMS</item>
-        <item>Отправлять MMS</item>
+        <item>Запись звука</item>
+        <item>Воспроизводение звука</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включение Bluetooth</item>
+        <item>Включение передачи данных</item>
+        <item>Отправление MMS</item>
+        <item>Чтение MMS</item>
+        <item>Отправка MMS</item>
     </string-array>
     <string-array name="app_ops_summaries_4_4">
         <item>грубое местоположение</item>
@@ -347,33 +347,33 @@
         <item>Местоположение</item>
         <item>Местоположение</item>
         <item>Вибрация</item>
-        <item>Читать контакты</item>
-        <item>Изменять контакты</item>
-        <item>Читать журнал вызовов</item>
-        <item>Изменять журнал вызовов</item>
-        <item>Читать календарь</item>
-        <item>Изменять календарь</item>
+        <item>Адресная книга</item>
+        <item>Изменение контактов</item>
+        <item>Чтение журнала звонков</item>
+        <item>Изменение журнала звонков</item>
+        <item>Чтение календаря</item>
+        <item>Измение календаря</item>
         <item>Местоположение</item>
         <item>Уведомления</item>
         <item>Местоположение</item>
-        <item>Совершать звонки</item>
-        <item>Читать SMS</item>
-        <item>Писать SMS</item>
-        <item>Получать SMS</item>
-        <item>Получать SMS</item>
-        <item>Получать MMS</item>
-        <item>Получать SMS</item>
-        <item>Отправлять SMS</item>
-        <item>Читать SMS</item>
-        <item>Писать SMS</item>
-        <item>Изменять настройки</item>
-        <item>Изменять приоритет</item>
+        <item>Совершение звонков</item>
+        <item>Чтение SMS</item>
+        <item>Составление SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение MMS</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Чтение SMS</item>
+        <item>Составление SMS</item>
+        <item>Изменение настроек</item>
+        <item>Всплывающие окна</item>
         <item>Доступ к уведомлениям</item>
         <item>Камера</item>
-        <item>Записывать звук</item>
-        <item>Воспроизводить звук</item>
-        <item>Читать буфер обмена</item>
-        <item>Изменять буфер обмена</item>
+        <item>Запись звука</item>
+        <item>Воспроизводение звука</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
         <item>Кнопки мультимедиа</item>
         <item>Аудиофокус</item>
         <item>Основная громкость</item>
@@ -386,11 +386,11 @@
         <item>Бодрствовать</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
-        <item>Включать Wi-Fi</item>
-        <item>Включать Bluetooth</item>
-        <item>Включать передачу данных</item>
-        <item>Отправлять MMS</item>
-        <item>Читать MMS</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включение Bluetooth</item>
+        <item>Включение передачи данных</item>
+        <item>Отправление MMS</item>
+        <item>Чтение MMS</item>
         <item>Писать MMS</item>
         <item>Автозагрузка</item>
     </string-array>
@@ -455,40 +455,40 @@
         <item>удалять контакты</item>
         <item>удалять журнал вызовов</item>
         <item>включать передачу данных</item>
-        <item>install shortcut</item>
+        <item>добавить ярлык</item>
     </string-array>
     <string-array name="app_ops_labels_5_0">
         <item>Местоположение</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
         <item>Вибрация</item>
-        <item>Читать контакты</item>
-        <item>Изменять контакты</item>
-        <item>Читать журнал вызовов</item>
-        <item>Изменять журнал вызовов</item>
-        <item>Читать календарь</item>
-        <item>Изменять календарь</item>
+        <item>Адресная книга</item>
+        <item>Изменение контактов</item>
+        <item>Чтение журнала звонков</item>
+        <item>Изменение журнала звонков</item>
+        <item>Чтение календаря</item>
+        <item>Измение календаря</item>
         <item>Местоположение</item>
         <item>Уведомления</item>
         <item>Местоположение</item>
-        <item>Совершать звонки</item>
-        <item>Читать SMS</item>
-        <item>Писать SMS</item>
-        <item>Получать SMS</item>
-        <item>Получать SMS</item>
-        <item>Получать MMS</item>
-        <item>Получать SMS</item>
-        <item>Отправлять SMS</item>
-        <item>Читать SMS</item>
-        <item>Писать SMS</item>
-        <item>Изменять настройки</item>
-        <item>Изменять приоритет</item>
+        <item>Совершение звонков</item>
+        <item>Чтение SMS</item>
+        <item>Составление SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение MMS</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Чтение SMS</item>
+        <item>Составление SMS</item>
+        <item>Изменение настроек</item>
+        <item>Всплывающие окна</item>
         <item>Доступ к уведомлениям</item>
         <item>Камера</item>
-        <item>Записывать звук</item>
-        <item>Воспроизводить звук</item>
-        <item>Читать буфер обмена</item>
-        <item>Изменять буфер обмена</item>
+        <item>Запись звука</item>
+        <item>Воспроизводение звука</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
         <item>Кнопки мультимедиа</item>
         <item>Аудиофокус</item>
         <item>Основная громкость</item>
@@ -498,33 +498,33 @@
         <item>Громкость будильника</item>
         <item>Громкость уведомлений</item>
         <item>Громкость Bluetooth</item>
-        <item>Бодрствовать</item>
-        <item>Местоположение</item>
-        <item>Местоположение</item>
-        <item>Получать статистику</item>
+        <item>Бодрствование телефона</item>
+        <item>Доступ к местоположению</item>
+        <item>Доступ к местоположению</item>
+        <item>Доступ к логам</item>
         <item>Включать/выключать микрофон</item>
-        <item>Ускорять всплывающие окна</item>
-        <item>Передавать мультимедиа</item>
-        <item>Активировать VPN</item>
-        <item>Включать Wi-Fi</item>
-        <item>Включать Bluetooth</item>
-        <item>Отправлять MMS</item>
-        <item>Читать MMS</item>
-        <item>Писать MMS</item>
+        <item>Окна с подсказками</item>
+        <item>Создание мультимедиа</item>
+        <item>Активация VPN</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включение Bluetooth</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Создание MMS</item>
         <item>Автозагрузка</item>
-        <item>Открывать NFC</item>
-        <item>Delete SMS</item>
-        <item>Delete MMS</item>
-        <item>Delete contacts</item>
-        <item>Delete call log</item>
-        <item>Data change</item>
-        <item>install shortcut</item>
+        <item>Открытие NFC</item>
+        <item>Удаление SMS</item>
+        <item>Удаление MMS</item>
+        <item>Удаление контактов</item>
+        <item>Удаление журнала звонков</item>
+        <item>Изменение данных</item>
+        <item>создание ярлыков</item>
     </string-array>
     <string-array name="app_ops_summaries_6_0">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>приблизительное местоположение</item>
+        <item>точное местоположение</item>
         <item>GPS</item>
-        <item>vibrate</item>
+        <item>вибрация</item>
         <item>read contacts</item>
         <item>modify contacts</item>
         <item>read call log</item>
@@ -648,63 +648,73 @@
         <item>body sensors</item>
         <item>read cell broadcasts</item>
         <item>mock location</item>
-        <item>read external storage</item>
-        <item>write external storage</item>
-        <item>turn screen on</item>
-        <item>get accounts</item>
-        <item>change wlan</item>
-        <item>change bluetooth</item>
-        <item>install shortcut</item>
+        <item>чтение памяти</item>
+        <item>запись в память</item>
+        <item>включение экрана</item>
+        <item>доступ к аккаунтам</item>
+        <item>изменение wi-fi</item>
+        <item>изменение bluetooth</item>
+        <item>создание ярлыков</item>
     </string-array>
     <string-array name="app_op_group_by_op_pop">
         <item>@string/app_ops_op_all_allowed</item>
         <item>@string/app_ops_op_all_ask</item>
         <item>@string/app_ops_op_all_ignored</item>
     </string-array>
+    <string-array name="app_op_group_by_op_pop_spec">
+        <item>@string/app_ops_op_all_allowed</item>
+        <item>@string/app_ops_op_all_ignored</item>
+    </string-array>
     <string-array name="app_ops_categories">
-        <item>Permissions</item>
-        <item>Application</item>
+        <item>Права доступа</item>
+        <item>Приложения</item>
     </string-array>
     <string-array name="app_ops_op_group">
-        <item>Privacy class</item>
-        <item>Security class</item>
+        <item>Функции с доступом к личной информации</item>
+        <item>Базовый функционал</item>
+        <item>Функция уведомлений</item>
     </string-array>
     <string-array name="app_ops_op_apk_goup">
-        <item>Privacy class</item>
-        <item>Basic class</item>
+        <item>Раздел конфиденциальности</item>
+        <item>Базовый раздел</item>
+        <item>Раздел уведомлений</item>
     </string-array>
     <string-array name="app_ops_op_great_permission">
-        <item>Call</item>
-        <item>Contacts</item>
-        <item>Messaging</item>
-        <item>Location Info</item>
-        <item>Calendar</item>
-        <item>MIC</item>
-        <item>Camera</item>
-        <item>Body Sensor</item>
-        <item>Storage space</item>
-        <item>Change Wifi</item>
-        <item>Change Blutooth</item>
-        <item>Change Settings</item>
-        <item>Install Shortcut</item>
-        <item>Display pop-up window</item>
+        <item>Звонки</item>
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>Местоположение</item>
+        <item>Календарь</item>
+        <item>Микрофон</item>
+        <item>Камера</item>
+        <item>Сенсоры телефона</item>
+        <item>SD карта</item>
+        <item>Изменение Wi-Fi</item>
+        <item>Изменение Blutooth</item>
+        <item>Изменение настроек</item>
+        <item>Создание ярлыков</item>
+        <item>Отображение всплывающих окон</item>
     </string-array>
     <string-array name="app_ops_op_permission_tips">
-        <item>Allow</item>
-        <item>Ask</item>
-        <item>Forbid</item>
+        <item>Разрешено</item>
+        <item>Запрашивать</item>
+        <item>Запрещено</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Разрешено</item>
+        <item>Запрещено</item>
     </string-array>
     <string-array name="addSelfStart">
-        <item>Добавьте вручную</item>
+        <item>Добавьте вручную в автозапуск</item>
     </string-array>
     <string-array name="sendsuggest_array">
-        <item>Submit</item>
+        <item>Отправить</item>
     </string-array>
     <string-array name="traffic_calibration_auto_check_period">
-        <item>Manual calibration only</item>
-        <item>Auto calibration every day</item>
-        <item>Auto calibration every three days</item>
-        <item>Auto calibration every week</item>
+        <item>только вручную</item>
+        <item>автоматически, каждый день</item>
+        <item>автоматически, каждые 3 дня</item>
+        <item>автоматически, каждую неделю</item>
     </string-array>
     <integer-array name="traffic_calibration_auto_check_day">
         <item>0</item>
@@ -713,10 +723,10 @@
         <item>7</item>
     </integer-array>
     <string-array name="month_traffic_warning_percent">
-        <item>60%</item>
-        <item>70%</item>
-        <item>80%</item>
-        <item>90%</item>
+        <item>60% </item>
+        <item>70% </item>
+        <item>80% </item>
+        <item>90% </item>
     </string-array>
     <integer-array name="month_traffic_warning_default_value">
         <item>60</item>
@@ -725,9 +735,9 @@
         <item>90</item>
     </integer-array>
     <string-array name="day_traffic_warning_percent">
-        <item>5%</item>
-        <item>10%</item>
-        <item>15%</item>
+        <item>5% </item>
+        <item>10% </item>
+        <item>15% </item>
     </string-array>
     <integer-array name="day_traffic_warning_default_value">
         <item>5</item>
@@ -739,14 +749,14 @@
         <item>@string/day_traffic_used_above_quota_warning_off_net</item>
     </string-array>
     <string-array name="smsoperate">
-        <item>Полное удаление</item>
-        <item>Переадресация</item>
+        <item>Удалить все записи</item>
+        <item>Вперед</item>
     </string-array>
     <string-array name="addButton">
-        <item>Add</item>
+        <item>Добавить</item>
     </string-array>
     <string-array name="command_name">
-        <item>信牛盾</item>
+        <item>Антивор</item>
         <item>xiangling#</item>
         <item>suoding#</item>
         <item>qingchu#</item>
@@ -762,17 +772,17 @@
         <item>5#</item>
     </string-array>
     <string-array name="remoteguard_manoeuvre_illustrate">
-        <item>Пригласите друга для тренировки!</item>
-        <item>"1, Сделайте вид, что телефон утерян или забыт 
+        <item>Пригласите друга для игры в прятки, и выйграйте звезду по завершению испытания.</item>
+        <item>"1. Покиньте  друга и позвольте ему спрятать Ваш телефон
 "</item>
-        <item>"2, Ваш товарищ находит телефон 
+        <item>"2. Вернитесь и найдите его, я тебя найду))
 "</item>
-        <item>"3, Где же мой телефон, что делать?
+        <item>"3. У меня не получается его найти, что же мне делать?
 "</item>
-        <item>4, Ура! Письмо от Антивора!</item>
-        <item>"5, На указанный телефон пришло письмо от Антивора с инструкциями!
+        <item>4. Догадались? Задействуйте функции Антивора на своем телефоне!</item>
+        <item>"5. Используя другой телефон, отправьте SMS со словом Антивор на свой телефон, и следуйте инструкциям
 "</item>
-        <item>"Теперь вы можете не беспокоиться о потере вашего телефона. Вы всегда сможете его найти. 
+        <item>"По завершению Вы получите звезду. Это так просто! Теперь Вы можете не беспокоиться, где оставили свой телефон! Помните, для получения сообщения Ваш телефон должен быть включен.
 "</item>
     </string-array>
     <string-array name="list_entries">
@@ -784,9 +794,9 @@
         <item>1</item>
     </string-array>
     <string-array name="harass_categories">
-        <item>Сообщения</item>
-        <item>Вызовы</item>
-        <item>Управление</item>
+        <item>SMS спам</item>
+        <item>Нежелательные звонки</item>
+        <item>Управление блокировкой</item>
     </string-array>
     <string-array name="add_blacklist_categories">
         <item>Последние</item>
@@ -802,19 +812,19 @@
         <item>Настройки блокировки</item>
     </string-array>
     <string-array name="delete_grabage_sms">
-        <item>Delete</item>
+        <item>Удалить</item>
     </string-array>
     <string-array name="harass_strategy_category">
-        <item>Interception All</item>
-        <item>Interception Black</item>
-        <item>Interception Stranger</item>
+        <item>Все звонки</item>
+        <item>По черному списку</item>
+        <item>Незнакомые номера</item>
     </string-array>
     <string-array name="harass_call_log_more_operation">
-        <item>Call</item>
-        <item>Add black list</item>
-        <item>Delete contacts</item>
+        <item>Позвонить</item>
+        <item>Добавить в черный список</item>
+        <item>Удалить контакт</item>
     </string-array>
     <string-array name="harass_blacklist_number_more_operation">
-        <item>delete blacklist number</item>
+        <item>Удалить номер из списка</item>
     </string-array>
 </resources>

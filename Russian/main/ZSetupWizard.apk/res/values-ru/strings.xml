@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мастер установки</string>
+    <string name="next">Далее</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="next_page_text">Далее</string>
+    <string name="experience_nubiaui">Начните пользоваться Nubia UІ
+прямо сейчас!</string>
+    <string name="start_experience">Старт</string>
+    <string name="user_experience_plan">Обратная связь Nubia</string>
+    <string name="user_experience_plan_hint">Чтобы улучшить наш продукт и услуги, мы статически проанализируем использование различных функций продукта. Весь процесс соответствует политике конфиденциальности.</string>
+    <string name="join_user_experience_plan">Я согласен</string>
+    <string name="user_agreement">Соглашение</string>
+    <string name="privacy_policy">Политика конфиденциальности.</string>
+    <string name="and">&amp;</string>
+    <string name="initializing">Инициализация…</string>
+    <string name="security_title">Договор о неразглашении информации</string>
+    <string name="security_agreement_confirm">Я (компания) соглашаюсь с вышеуказанным и обязуюсь исполнять данные положения</string>
+    <string name="comfirm">ОК</string>
+    <string name="security_agreement1">Это устройство является тестовой неопубликованной моделью, поэтому информация касательно нее является важной коммерческой тайной nubia Technology Co., Ltd (сокращенно nubia). Пожалуйста, прочитайте и выполняйте следующее</string>
+    <string name="security_agreement2">1. Не разглашайте информацию, полученную при использовании модели (включая, но не ограничиваясь, внешним видом, использованными материалами, конфигурацией и функциями); не разглашайте соответствующую информацию никому, кроме nubia.</string>
+    <string name="security_agreement3">2. Поддерживайте модель в хорошем состоянии и не показывайте и не демонстрируйте ее посторонним людям.</string>
+    <string name="security_agreement4">3. Если вы нарушите условия вышеизложенного договора, вы будете нести соответствующую ответственность соответственно политике безопасности nubia и действующим законам и положениям (включая, но не ограничиваясь, внутренние наказания, увольнение, возмещение материального ущерба, несение криминальной ответственности)</string>
+    <string name="security_agreement5">"4. Если вы являетесь корпоративным партнером nubia's и нарушите вышеизложенное соглашение, будет считаться, что вы нарушите соглашение NDA, подписанное обеими сторонами и будете нести ответственность, согласно нему."</string>
+</resources>
