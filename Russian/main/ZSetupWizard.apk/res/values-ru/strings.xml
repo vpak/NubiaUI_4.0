@@ -13,6 +13,7 @@
     <string name="user_agreement">Соглашение</string>
     <string name="privacy_policy">Политика конфиденциальности.</string>
     <string name="and">&amp;</string>
+    <string name="finish_register">Настройки завершены</string>
     <string name="initializing">Инициализация…</string>
     <string name="security_title">Договор о неразглашении информации</string>
     <string name="security_agreement_confirm">Я (компания) соглашаюсь с вышеуказанным и обязуюсь исполнять данные положения</string>

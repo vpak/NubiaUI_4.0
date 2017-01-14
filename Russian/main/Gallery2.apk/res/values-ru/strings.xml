@@ -324,8 +324,8 @@
     <string name="download_confirm">Загрузить</string>
     <string name="download_cancel">След.</string>
     <string name="action_setas_wallpaper">Установить как обои</string>
-    <string name="action_setas_lockscreen">Установить блоктровку клавиатуры</string>
-    <string name="action_setas_all">Установить все</string>
+    <string name="action_setas_lockscreen">Установить на локскрин</string>
+    <string name="action_setas_all">Установить везде</string>
     <string name="gif_play">Воспроизвести GIF</string>
     <string name="alibumset_share">Вы уверены, что хотите поделиться выбранным альбомом?</string>
     <string name="alibumset_delete">Вы уверены, что хотите удалить выбранный альбом?</string>

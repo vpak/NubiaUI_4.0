@@ -420,7 +420,7 @@
     <string name="unlock_tip_info">↑ Разблокировка ↑</string>
     <string name="unlock_camera_tip_info">↑ Камера ↑</string>
     <string name="ic_qs_take_screen">Скриншот</string>
-    <string name="notification_swip_info">Смахните вправо для просмотра</string>
+    <string name="notification_swip_info">→ свайп вправо для просмотра →</string>
     <string name="incall_time">На телефоне %1$s</string>
     <string name="call_state_dialing">Набор номера</string>
     <string name="recorder_time">На записи %1$s</string>
@@ -499,8 +499,8 @@
     <string name="guide_close">ОК</string>
     <string name="white_service_list_guide_tips">Вы можете поместить сервис в белый список, чтобы он не был удален по ошибке</string>
     <string name="reset_service_white_list">восстановить белый список</string>
-    <string name="user_guide_flow_up">Смахните вверх чтобы закрыть</string>
-    <string name="user_guide_flow_down">Смахните вниз чтобы заблокировать</string>
+    <string name="user_guide_flow_up">Свайп вверх для выгрузки</string>
+    <string name="user_guide_flow_down">Свайп вниз для закрепления</string>
     <string name="user_guide_kown">ОК</string>
     <string name="guide_white_list_content">разрешить работу приложения в фоновом режиме и отправку уведомлений, а также не дать закрыться по ошибке</string>
     <string name="guide_white_list_button">ОК</string>
@@ -750,4 +750,8 @@
     <string name="supersnap_guide_one_button_text">Я знаю</string>
     <string name="supersnap_guide_one_title">Комбинация кнопок питания и громкости</string>
     <string name="supersnap_guide_close">Закрыть</string>
+    <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+    <string name="date_format">d MMMM, EEEE</string>
+    <string name="date_format_paper">d MMMM, EEEE</string>
 </resources>
