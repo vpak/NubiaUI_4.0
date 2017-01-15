@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Умный чехол</string>
+    <string name="smartface_setting_title">Умный чехол</string>
+    <string name="title_enable_smartface_preference">Умный чехол</string>
+    <string name="enable_smartface_summary">Активируйте эту функцию для использования смарт-кожи на телефоне</string>
+    <string name="title_enable_smartface_window_preference">Умный чехол</string>
+    <string name="enable_smartface_window_summary">С помощью смарт-окна и функции быстрой разблокировки</string>
+    <string name="title_dismiss_lockscreen_preference">Авто-разблокировка экрана</string>
+    <string name="dismiss_lockscreen_summary">Открытие чехла разблокирует экран</string>
+    <string name="title_face_color_preference">Фон окна</string>
+    <string name="dialog_title_color_choose_preference">Выберите цвет фона</string>
+    <string name="face_color_summary">Черный</string>
+    <string name="title_smartface_helper_preference">Помощь</string>
+    <string name="title_smartface_choice">ВЫБРАТЬ ТИП ЧЕХЛА</string>
+    <string name="title_enable_smartface_ordinary_preference">Обычная кожа</string>
+    <string name="enable_smartface_ordinary_summary">С функцией быстрой разблокировки</string>
+    <string name="smartface_support_info">Этот параметр поддерживает только nubia смартфон.</string>
+    <string name="smartface_function_info_1">Смарт-окна могут отображать дату, время и использовать музыку и будильник.</string>
+    <string name="smartface_function_info_2">Вы можете просмотреть пропущенное событие на этом экране.</string>
+    <string name="music_no_track_tips">Нет плейлистов</string>
+    <string name="settings_lattice_ok_button">ОК</string>
+    <string name="settings_lattice_answer_or_hangup_summary">Если вам звонят, когда чехол закрыт, откройте крышку для ответа на вызов.</string>
+    <string name="title_screen_sliding_preference">Действия при </string>
+    <string name="title_edge_sliding_preference">Реакция на входящий звонок</string>
+    <string name="title_open_answer_or_hangup_preference">Ответ, если телефон в чехле</string>
+    <string name="open_answer_or_hangup_summary">В случае входящего звонка, откройте и закройте крышку, чтобы ответить.</string>
+    <string name="screen_slide_summary">Если вам звонят, когда крышка закрыта, проведите пальцем вниз для ответа на вызов; проведите пальцем вверх для отклонения вызова.</string>
+    <string name="init_set">Настройки</string>
+    <string name="init_delay_set">Больше нет подсказок</string>
+    <string name="smarface_init_tips">Добро пожаловать в nubia Умный чехол. Чтобы получить наибольше удовольствия от работы, пожалуйста, установите соответствующие настройки.</string>
+    <string name="exception_exit_info">Нажмите и удерживайте Регулятор громкости - ключ и Регулятор громкости + ключ для выхода</string>
+    <string name="title_ordinary_preference">Кожанный чехол</string>
+    <string name="enable_ordinary_summary">Откройте кожаный чехол для быстрой разблокировки телефона</string>
+    <string name="title_lattice_preference">Умный чехол</string>
+    <string name="enable_lattice_summary">Структурированный рабочий стол</string>
+    <string name="single_hall_settings_helper_info">С помощью умного чехла вы можете проверять время, читать сообщения и информацию о пропущенных звонках. Вы также можете отвечать на звонки, слушать музыку, устанавливать будильники и др.</string>
+    <string name="smartface_type_switch_tips">Кожанный чехол был включен</string>
+</resources>

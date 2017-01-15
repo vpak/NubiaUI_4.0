@@ -8,7 +8,7 @@
 прямо сейчас!</string>
     <string name="start_experience">Старт</string>
     <string name="user_experience_plan">Обратная связь Nubia</string>
-    <string name="user_experience_plan_hint">Чтобы улучшить наш продукт и услуги, мы статически проанализируем использование различных функций продукта. Весь процесс соответствует политике конфиденциальности.</string>
+    <string name="user_experience_plan_hint">Для улучшения продукта и связанных с ним сервисов будет собрана статистика использования различных функций продукта. Весь процесс будет соответствовать политике конфиденциальности.</string>
     <string name="join_user_experience_plan">Я согласен</string>
     <string name="user_agreement">Соглашение</string>
     <string name="privacy_policy">Политика конфиденциальности.</string>

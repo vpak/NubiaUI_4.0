@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Добавление отпечатка пальца</string>
+    <string name="actionbar_name">Добавление отпечатка пальца</string>
+    <string name="tutorial_activity_main_title">Распознание отпечатка пальца</string>
+    <string name="tutorial_activity_sub_title">Нажмите пальцем на область распознавания отпечатков пальцев, пока не почувствуете вибрацию, и отрегулируйте положение вашего пальца</string>
+    <string name="prints_activity_main_title">Нажмите пальцем</string>
+    <string name="prints_activity_main_title_put_up_finger">Уберите палец</string>
+    <string name="prints_activity_sub_title">Нажмите пальцем на область распознавания отпечатков пальцев, уберите палец и повторите эту процедуру</string>
+    <string name="prints_activity_tip_move_finger">Слегка измените положение пальца в процессе сканирования</string>
+    <string name="prints_activity_tip_change_position">Отрегулируйте жест удерживания для сохранения большей площади отпечатка пальца</string>
+    <string name="prints_activity_success_main_title">Поздравляем</string>
+    <string name="prints_activity_success_sub_title">Сохранение отпечатков пальцев завершено, вы можете разблокировать телефон с помощью отпечатков пальцев</string>
+    <string name="prints_activity_button_name">Продолжить</string>
+    <string name="prints_activity_rename_button_name">Пометьте название отпечатков пальцев</string>
+    <string name="prints_activity_finish_button_name">Готово</string>
+    <string name="prints_activity_fail_title">Не удается считать отпечаток пальца</string>
+    <string name="prints_activity_fail_button_name">OK</string>
+    <string name="prints_activity_fail_tip_use_another">Попробуйте другой палец</string>
+    <string name="prints_activity_fail_tip_short_time">Процесс сохранение отпечатков пальцев слишком короткий. Пожалуйста, продлите время контакта</string>
+    <string name="prints_activity_fail_tip_overlapped">Пожалуйста, измените площадь контакта отпечатка пальца</string>
+    <string name="tutorial_activity_has_this_finger">Отпечаток был сохранен</string>
+    <string name="tutorial_activity_try_another_finger">Пожалуйста, используйте другой палец и повторите попытку</string>
+    <string name="tip_click_twice">Нажмите еще раз, чтобы покинуть функцию сохранения отпечатков пальцев</string>
+    <string name="prints_activity_tip_num_string">0%</string>
+</resources>
