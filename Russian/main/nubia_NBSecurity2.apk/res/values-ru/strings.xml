@@ -79,7 +79,7 @@
     <string name="common_pattern_redraw_failure">Ошибка подтверждения ключа, повторите попытку</string>
     <string name="common_button_next">Далее</string>
     <string name="common_button_done">Готово</string>
-    <string name="common_pattern_new_repaint">Перерисуйте</string>
+    <string name="common_pattern_new_repaint">Нарисуйте еще раз</string>
     <string name="common_btn_name_setup">Настройки</string>
     <string name="common_contacts_add_phonebook">Добавить из адресной книги</string>
     <string name="common_notification_security_title">Трафик</string>
@@ -788,9 +788,9 @@
     <string name="no_palyer_toast">отсутствует плеер для воспроизведения</string>
     <string name="finish_some_failed">завершено с ошибками</string>
     <string name="failed">ошибка</string>
-    <string name="successed">завершено</string>
-    <string name="encryption">зашифровано</string>
-    <string name="decryption">разшифровано</string>
+    <string name="successed">завершена</string>
+    <string name="encryption">Зашифровка </string>
+    <string name="decryption">Разшифровка </string>
     <string name="remote_guard_name">Антивор</string>
     <string name="input_telnumber">Авторизуйтесь для дистанционного управления телефоном</string>
     <string name="passwd_title">Пароль</string>

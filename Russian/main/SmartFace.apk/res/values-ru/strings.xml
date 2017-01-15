@@ -20,11 +20,11 @@
     <string name="smartface_function_info_2">Вы можете просмотреть пропущенное событие на этом экране.</string>
     <string name="music_no_track_tips">Нет плейлистов</string>
     <string name="settings_lattice_ok_button">ОК</string>
-    <string name="settings_lattice_answer_or_hangup_summary">Если вам звонят, когда чехол закрыт, откройте крышку для ответа на вызов.</string>
-    <string name="title_screen_sliding_preference">Действия при </string>
+    <string name="settings_lattice_answer_or_hangup_summary">Если вам звонят, когда чехол закрыт, откройте и закройте крышку для ответа на вызов.</string>
+    <string name="title_screen_sliding_preference">Реакция на входящий звонок</string>
     <string name="title_edge_sliding_preference">Реакция на входящий звонок</string>
-    <string name="title_open_answer_or_hangup_preference">Ответ, если телефон в чехле</string>
-    <string name="open_answer_or_hangup_summary">В случае входящего звонка, откройте и закройте крышку, чтобы ответить.</string>
+    <string name="title_open_answer_or_hangup_preference">Прием звонка в чехле</string>
+    <string name="open_answer_or_hangup_summary">В случае входящего звонка, откройте и закройте крышку, чтобы ответить</string>
     <string name="screen_slide_summary">Если вам звонят, когда крышка закрыта, проведите пальцем вниз для ответа на вызов; проведите пальцем вверх для отклонения вызова.</string>
     <string name="init_set">Настройки</string>
     <string name="init_delay_set">Больше нет подсказок</string>

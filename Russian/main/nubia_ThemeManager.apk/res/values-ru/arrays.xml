@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="set_ringtone_array">
+        <item>Установить на звонок</item>
+        <item>Установить на SMS</item>
+    </string-array>
+    <string-array name="set_ringtone_two_card_array">
+        <item>Установить на звонок SIM-1</item>
+        <item>Установить на звонок SIM-2</item>
+        <item>Установить на SMS</item>
+    </string-array>
+</resources>

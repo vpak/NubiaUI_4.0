@@ -6,12 +6,12 @@
         <item>Управление</item>
     </string-array>
     <string-array name="common_pattern_safe_questions">
-        <item>Когда день рождения моей мамы?</item>
-        <item>Когда день рождения моего отца?</item>
-        <item>Кто самый важный человек в моей жизни?</item>
-        <item>Куда бы мне хотелось отправиться в путешествие?</item>
+        <item>День рождения моей мамы?</item>
+        <item>День рождения моего отца?</item>
+        <item>Самый важный человек в моей жизни?</item>
+        <item>Куда бы отправиться в путешествие?</item>
         <item>Мой любимый цвет?</item>
-        <item>Какой день самый важный в моей жизни?</item>
+        <item>Самый важный день в моей жизни?</item>
     </string-array>
     <string-array name="mtk_app_ops_permissions">
         <item>Разрешено</item>

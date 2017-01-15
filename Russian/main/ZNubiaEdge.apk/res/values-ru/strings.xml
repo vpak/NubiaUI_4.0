@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Свайпы экрана</string>
-    <string name="edge_flide_title">Свайпы по экрану</string>
+    <string name="edge_flide_title">Свайпы экрана</string>
     <string name="edge_flide">Скольжение</string>
     <string name="edge_single_hold">Одной рукой</string>
     <string name="edge_two_hands">Двумя руками в горизонтальной ориентации</string>
@@ -11,9 +11,9 @@
     <string name="open_app_up">при свайпе ↑</string>
     <string name="open_app_down">при свайпе ↓</string>
     <string name="edge_flide_right">Свайп по правому краю</string>
-    <string name="edge_flide_repeat">Свайп несколько раз</string>
+    <string name="edge_flide_repeat">Свай по краю несколько раз</string>
     <string name="mobile_acceleration">Очистить память</string>
-    <string name="edge_flide_bilateral">Свайпы с двух краев</string>
+    <string name="edge_flide_bilateral">Свайп по двум краям</string>
     <string name="adjust_light">Настроить яркость</string>
     <string name="adjust_sound">Настроить громкость</string>
     <string name="edge_hold">Удерживать</string>
@@ -84,13 +84,13 @@
     <string name="page_num_four">4/%1$s</string>
     <string name="page_num_all_uncomplete">3</string>
     <string name="page_num_all_complete">4</string>
-    <string name="welcom_inward_title">Удерживайте край и свайп внутрь</string>
+    <string name="welcom_inward_title">Нажатие на край и свайп внутрь</string>
     <string name="double_click_edge_title">Двойное нажатие на край</string>
     <string name="double_click_edge_desc">Позволяет вернуться на предыдущий экран</string>
     <string name="edge_flide_bilateral_desc">Переключение от автояркости на ручную</string>
     <string name="edge_flide_inward">Удерживать край и свайп внутрь</string>
-    <string name="edge_flide_inward_desc">Не поддерживает рабочие столы от друггих лаунчеров</string>
-    <string name="clear_background_apps">Удалить фоновые приложения и освободить место</string>
+    <string name="edge_flide_inward_desc">Не поддерживает рабочие столы сторонних лаунчеров</string>
+    <string name="clear_background_apps">Выгрузить фоновые приложения и освободить оперативную память</string>
     <string name="edge_flide_single_move_switch">Свайп по краю вверх/вниз</string>
     <string name="edge_flide_single_move_switch_desc">Переключение и запуск приложений</string>
     <string name="edge_flide_repeat_screen_title">Свайпы несколько раз</string>

@@ -630,9 +630,9 @@
     </string-array>
     <string-array name="repick_name_label">
         <item>Будильник</item>
-        <item>Работа</item>
-        <item>Обучение</item>
-        <item>Свой ярлык</item>
+        <item>На работу</item>
+        <item>На учёбу</item>
+        <item>Свой название</item>
     </string-array>
     <string-array name="animalNames">
         <item></item>

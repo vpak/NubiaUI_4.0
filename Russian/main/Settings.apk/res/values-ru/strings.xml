@@ -258,10 +258,10 @@
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
-    <string name="airplane_mode">Режим полета</string>
+    <string name="airplane_mode">Режим \"В самолёте\"</string>
     <string name="radio_controls_title">Ещё</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
-    <string name="radio_controls_summary">Настройки Wi‑Fi, Bluetooth, режима полета, мобильных сетей и VPN</string>
+    <string name="radio_controls_summary">Настройки Wi-Fi, Bluetooth, режима полета, мобильных сетей и VPN</string>
     <string name="cellular_data_title">Передача данных</string>
     <string name="data_disabled_in_active_call">Сотовые данные отключены, если вызов активен.</string>
     <string name="calls_title">Телефонные звонки</string>
@@ -895,12 +895,12 @@
     <string name="memory_available_read_only">Доступно (только для чтения)</string>
     <string name="memory_size">Полный объем</string>
     <string name="memory_calculating_size">Идет подсчет...</string>
-    <string name="memory_apps_usage">Данные приложений и мультимедиа</string>
+    <string name="memory_apps_usage">Данные приложений</string>
     <string name="memory_media_usage">Мультимедиа</string>
     <string name="memory_downloads_usage">Загрузки</string>
     <string name="memory_dcim_usage">Изображения и видео</string>
     <string name="memory_music_usage">Аудио (музыка, рингтоны и т. п.)</string>
-    <string name="memory_media_misc_usage">Прочее</string>
+    <string name="memory_media_misc_usage">Прочие</string>
     <string name="memory_media_cache_usage">Данные кеша</string>
     <string name="sd_eject">Извлечь SD-карту</string>
     <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
@@ -1070,7 +1070,7 @@
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
-    <string name="tethering_help_button_text">?</string>
+    <string name="tethering_help_button_text">Помощь</string>
     <string name="network_settings_title">Мобильные сети</string>
     <string name="manage_mobile_plan_title">Тарифный план</string>
     <string name="sms_application_title">Приложение для SMS</string>
@@ -1242,7 +1242,7 @@
     <string name="filter_dlg_title">Выберите параметры фильтра</string>
     <string name="filter_apps_all">Все</string>
     <string name="filter_apps_disabled">Отключенные</string>
-    <string name="filter_apps_third_party">Мои</string>
+    <string name="filter_apps_third_party">Ваши</string>
     <string name="filter_apps_running">Запущены</string>
     <string name="filter_apps_onsdcard">На SD-карте</string>
     <string name="disabled">Отключено</string>
@@ -1517,7 +1517,7 @@
     <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка ВЫКЛ. завершает вызов</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">ВЫКЛ. завершает вызов</string>
     <string name="accessibility_toggle_speak_password_preference_title">Озвучивать пароли</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_display_inversion_preference_title">Инверсия цветов</string>
@@ -1972,7 +1972,7 @@
     <string name="starting_android">Запуск Android…</string>
     <string name="try_again">Повторить попытку.</string>
     <string name="delete">Удалить</string>
-    <string name="misc_files">Разное</string>
+    <string name="misc_files">Прочие</string>
     <string name="misc_files_selected_count">Выбрано: %1$d из %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
     <string name="select_all">Выбрать все</string>
@@ -2046,7 +2046,7 @@
     <string name="data_usage_cycle">Период статистики</string>
     <string name="data_usage_app_items_header_text">Приложения</string>
     <string name="data_usage_menu_roaming">Интернет-роуминг</string>
-    <string name="data_usage_menu_restrict_background">Ограничить фон. режим</string>
+    <string name="data_usage_menu_restrict_background">Ограничение фонового режима</string>
     <string name="data_usage_menu_allow_background">Включить фоновый режим</string>
     <string name="data_usage_menu_split_4g">Только по каналу 4G</string>
     <string name="data_usage_menu_show_wifi">Показывать трафик Wi‑Fi</string>
@@ -2635,7 +2635,7 @@
     <string name="sleep_time_separator">—</string>
     <string name="sleep_time_warning">Время начала должно отличаться от времени окончания!</string>
     <string name="avoid_mistouch_title">Избегать касания в кармане</string>
-    <string name="avoid_mistouch_summary">Предотвращение случайных нажатий, когда телефон находится в кармане.</string>
+    <string name="avoid_mistouch_summary">Предотвращение случайных нажатий, когда телефон находится в кармане</string>
     <string name="maxring_vibrate_title">Макс. громкость и вибрация</string>
     <string name="maxring_vibrate_summary">При входящем вызове громкость сигнала увеличивается и телефон вибрирует, находясь в кармане.</string>
     <string name="notify_favorite_title2">Повторные входящие вызовы</string>
@@ -2699,7 +2699,7 @@
     <string name="nb_lockpassword_confirm_your_password_header">Введите свой пароль повторно</string>
     <string name="nb_lockpassword_confirm_your_pin_header">Введите свой пароль повторно</string>
     <string name="security_and_privacy_settings_title">Безопасность</string>
-    <string name="location_service_request">Запрос службы определения местоположения</string>
+    <string name="location_service_request">Запросы геолокации</string>
     <string name="turn_on_location_service">Включено</string>
     <string name="turn_off_location_service">Выключено</string>
     <string name="location_recent_request_apps">Приложения, которые недавно запрашивали определение местоположения</string>
@@ -2721,7 +2721,7 @@
     <string name="timeout_locking_10_min">10 минут</string>
     <string name="timeout_locking_30_min">30 минут</string>
     <string name="reduce_dynamic_effect_title">Ограничить эффекты</string>
-    <string name="reduce_dynamic_effect_summary">Ограничить динамические эффекты (включая эффекты иконок и уведомлений)</string>
+    <string name="reduce_dynamic_effect_summary">Ограничить динамические эффекты (включая иконки и уведомления)</string>
     <string name="no_vpn">Нет VPN</string>
     <string name="feature_settings">Специальные возможности</string>
     <string name="smartface_settings">Умный чехол</string>
@@ -2774,7 +2774,7 @@
     <string name="runtime_space">Зарезервировано системой</string>
     <string name="reset_low_battery_message">Заряд батареи должен быть выше 30 процентов</string>
     <string name="vpn_list_title">Список VPN</string>
-    <string name="data_usage_detail">Детализация использования данных</string>
+    <string name="data_usage_detail">Детализация по данным</string>
     <string name="sim_lock_settings_category1">Блокировка SIM 1</string>
     <string name="sim_lock_settings_category2">Блокировка SIM 2</string>
     <string name="device_info_available">Активна</string>
@@ -2813,9 +2813,9 @@
     <string name="wifi_wapi_cert_install_button">Установить</string>
     <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
     <string name="wifi_wapi_cert_cancel_button">Отмена</string>
-    <string name="wifi_wapi_cert_uninstall">Деинсталлировать сертификат WAPI</string>
+    <string name="wifi_wapi_cert_uninstall">Удалить сертификат WAPI</string>
     <string name="wifi_wapi_cert_create_subdir">Создать каталог</string>
-    <string name="wifi_wapi_cert_delet_subdir">Выберите соответствующий сертификат</string>
+    <string name="wifi_wapi_cert_delet_subdir">Выберите сертификат</string>
     <string name="wifi_wapi_as_cert">AS сертификат</string>
     <string name="wifi_wapi_user_cert">Сертификат Пользователя</string>
     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Пожалуйста, введите имя создаваемого вами каталога!</string>
@@ -2838,7 +2838,7 @@
     <string name="smart_memory_title">Адаптивная регулировка</string>
     <string name="smart_memory_summary">Сохраняет значение текущей среды</string>
     <string name="max_brightness_warning_title">Внимание</string>
-    <string name="max_brightness_warning_message">Максимальная Яркость уменьшает срок службы батареи и влияет на рассеивание тепла.</string>
+    <string name="max_brightness_warning_message">Максимальная яркость уменьшает время работы от батареи.</string>
     <string name="max_brightness_warning_not_remind">Больше не напоминать</string>
     <string name="brightness_zero">По умолчанию</string>
     <string name="ringtone_default">Мелодия по умолчанию</string>
@@ -2871,10 +2871,8 @@
     <string name="unlock_quick_application_title">Быстрые настройки</string>
     <string name="notification_center_app_name">Центр оповещений</string>
     <string name="notification_center_lockscreen">Блокировка экрана</string>
-    <string name="notification_center_multi_lockscreen">"На
-локскрине"</string>
-    <string name="notification_center_multi_dropdown">"В
-шторке"</string>
+    <string name="notification_center_multi_lockscreen">"Локскрин"</string>
+    <string name="notification_center_multi_dropdown">"Шторка"</string>
     <string name="notification_center_breathlight">Индикация</string>
     <string name="notification_center_dropdown">Строка уведомлений</string>
     <string name="notification_center_show_headsup">Предупреждение</string>
@@ -2891,7 +2889,7 @@
     <string name="notification_center_include">Задействованы:</string>
     <string name="notification_center_cancel">Отмена</string>
     <string name="notification_center_submit">Сохранить</string>
-    <string name="notification_center_select_title">Управление</string>
+    <string name="notification_center_select_title">Приложения</string>
     <string name="notification_center_publicmode_summary">Отображать содержимое</string>
     <string name="notification_center_privatemode_summary">*********************</string>
     <string name="qs_supersnap">Скриншот</string>
@@ -2920,7 +2918,7 @@
     <string name="wifi_scanning_title">Сканирование…</string>
     <string name="wifi_menu_wps_summary">Убедитесь, что беспроводная точка доступа поддерживает WPS</string>
     <string name="wifi_menu_wps">Соединение с WPS</string>
-    <string name="more_wireless_title">Доп. настройки сети</string>
+    <string name="more_wireless_title">Дополнительные настройки сети</string>
     <string name="location_info">Передача геоданных</string>
     <string name="wapi_psk_type">тип ключа WAPI</string>
     <string name="single_mode_long_press">Держите нажатой</string>
@@ -3005,9 +3003,9 @@
     <string name="open_app_up">при свайпе ↑</string>
     <string name="open_app_down">при свайпе ↓</string>
     <string name="edge_flide_right">Свайп по правому краю</string>
-    <string name="edge_flide_repeat">Свайпы несколько раз</string>
+    <string name="edge_flide_repeat">Свай по краю несколько раз</string>
     <string name="mobile_acceleration">Ускорьте работу вашего телефона</string>
-    <string name="edge_flide_bilateral">Свайпы по двум краям</string>
+    <string name="edge_flide_bilateral">Свайп по двум краям</string>
     <string name="adjust_light">Настройка яркости</string>
     <string name="adjust_sound">Настроить громкость</string>
     <string name="edge_hold">Удерживать</string>
@@ -3164,13 +3162,13 @@
     <string name="default_email">Почта</string>
     <string name="default_videoplayer">Видеопроигрыватель</string>
     <string name="default_document">Документы</string>
-    <string name="none_default">отсутствуют</string>
+    <string name="none_default">отсутствует</string>
     <string name="system_default">по умолчанию</string>
     <string name="sensor_adjust_finger">Калибровка датчика отпечатков пальцев</string>
     <string name="dual_instance_settings">Копия приложения</string>
     <string name="dual_instance_select_app">Выберите дублированную копию</string>
     <string name="dual_rename_app_title">Переименуйте дублированную копию</string>
-    <string name="dual_instance_summary">Создание копии приложения.</string>
+    <string name="dual_instance_summary">Создание копии приложения</string>
     <string name="dual_start_title">Создать копию</string>
     <string name="dual_settings_title">Создается независимая копия приложения. Вы можете использовать разные учетные записи одновременно с помощью данной функции.</string>
     <string name="dual_instance_ok">Завершить дублированную копию</string>
@@ -3244,7 +3242,8 @@
     <string name="fingerprint_chooselock_title">Выбор запасной разблокировки</string>
     <string name="reset_app_to_default_alert">Подтвердите сброс настроек приложений</string>
     <string name="power_discharge_duration">%s%%</string>
-    <string name="powersave_title_summary">Интеллектуальный режим энергосбережения</string>
+    <string name="powersave_title_summary">Интеллектуальный режим
+энергосбережения</string>
     <string name="powersave_title_sub_summary">Поддержание баланса аппаратного и программного энергопотребления для эффективного продления работы от батареи</string>
     <string name="power_control_title">Управление энергосбережением</string>
     <string name="power_low_battery_mode">Режим энергосбережения</string>
@@ -3275,9 +3274,9 @@
     <string name="edge_flide_single_move_switch_desc">Переключение и запуск приложений</string>
     <string name="edge_flide_repeat_desc">Выгрузить приложения из памяти</string>
     <string name="edge_flide_double_sided_desc">Настроить яркость</string>
-    <string name="edge_flide_inward">Удерживать край и свайп внутрь</string>
+    <string name="edge_flide_inward">Нажатие на край и свайп внутрь</string>
     <string name="edge_flide_inward_desc">Быстрый выбор рабочего стола</string>
-    <string name="edge_click_title">Двойное нажатие по краю</string>
+    <string name="edge_click_title">Двойное нажатие на край</string>
     <string name="edge_click_desc">Возвращение назад</string>
     <string name="red_packet_settings_title">Подарки для китайцев</string>
     <string name="one_key_red_packet_tile">Один ключ для подарка</string>

@@ -879,7 +879,7 @@
     <string name="card_insert_erro_message">Поддерживает только одну катру China Telecom.</string>
     <string name="card_insert_erro_ok">ОК</string>
     <string name="prefer_network_list">Список предпочтительных сетей</string>
-    <string name="prefer_network_list_summary">Отметить Список предпочтительных сетей</string>
+    <string name="prefer_network_list_summary">Отметить предпочтительные сети</string>
     <string name="card_one_settings">Настройки SIM-1</string>
     <string name="card_two_settings">Настройки SIM-2</string>
     <string name="nubia_new_plmn">+ Новый PLMN</string>
