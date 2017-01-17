@@ -183,8 +183,8 @@
     <string name="no_data">Нет данных</string>
     <string name="local">Локальные</string>
     <string name="system_theme">Системная тема</string>
-    <string name="shrink">свернуть</string>
-    <string name="expand_all">развернуть</string>
+    <string name="shrink">↑</string>
+    <string name="expand_all">↓</string>
     <string name="updateinfo">обновить</string>
     <string name="skip">пропуск</string>
     <string name="title_ring">Музыка</string>
@@ -204,7 +204,7 @@
     <string name="playing_ring_error">Ошибка воспроизведения</string>
     <string name="ring_downloading_exist">уже существует</string>
     <string name="no_online_theme">Отсутствуют</string>
-    <string name="user_center_title">Пользователь</string>
+    <string name="user_center_title">Профиль</string>
     <string name="log_in_out">Логин/Регистрация</string>
     <string name="user_favorite">Мои любимые</string>
     <string name="add_favorite_success">Добавлено в любимые</string>

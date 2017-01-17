@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
-        <item quantity="one">Цепочка будет удалена.</item>
+        <item quantity="other">Диалогов для удаления: %1$s</item>
+        <item quantity="one">Удалить диалог?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s с.</item>
@@ -15,14 +15,14 @@
     </plurals>
     <plurals name="message_count_notification_overflow">
         <item quantity="other">Еще сообщений: %1$s</item>
-        <item quantity="one">Еще сообщений: %1$s</item>
+        <item quantity="one">Еще сообщение: %1$s</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s чел.</item>
     </plurals>
     <plurals name="confirm_delete_phrases">
-        <item quantity="other">%1$s фраз будет удалено.</item>
-        <item quantity="one">Одна фраза будет удалена.</item>
+        <item quantity="other">%1$s слов будет удалено.</item>
+        <item quantity="one">Одно слово будет удалено.</item>
     </plurals>
     <plurals name="recipient_count_show">
         <item quantity="other">"  и другим %1$s людям"</item>

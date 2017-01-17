@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_color_list_preference">
+        <item>Черный</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+    </string-array>
+    <string-array name="entryvalues_color_list_preference">
+        <item>Черный</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+    </string-array>
+    <string-array name="preset_image_path">
+        <item>preset/nubia_gallery_lockscreen_preset_image_1</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_2</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_3</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_4</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_5</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_6</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_7</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_8</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_9</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_10</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_11</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_12</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_13</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_14</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_15</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_16</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_17</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_18</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_19</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_20</item>
+    </string-array>
+    <string-array name="preset_image_version">
+        <item>V1.8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="preset_images_key">
+        <item>preset_image_1</item>
+        <item>preset_image_2</item>
+        <item>preset_image_3</item>
+        <item>preset_image_4</item>
+        <item>preset_image_5</item>
+        <item>preset_image_6</item>
+        <item>preset_image_7</item>
+        <item>preset_image_8</item>
+        <item>preset_image_9</item>
+        <item>preset_image_10</item>
+        <item>preset_image_11</item>
+        <item>preset_image_12</item>
+        <item>preset_image_13</item>
+        <item>preset_image_14</item>
+        <item>preset_image_15</item>
+        <item>preset_image_16</item>
+        <item>preset_image_17</item>
+        <item>preset_image_18</item>
+        <item>preset_image_19</item>
+        <item>preset_image_20</item>
+    </string-array>
+    <string-array name="gallery_category_names">
+        <item>Рекомендуемые</item>
+        <item>Пейзаж</item>
+        <item>Архитектура</item>
+        <item>Модели</item>
+        <item>Знаменитости</item>
+        <item>Мода</item>
+        <item>Еда</item>
+        <item>Кино</item>
+        <item>Машины</item>
+        <item>Творчество</item>
+        <item>Спорт</item>
+    </string-array>
+    <string-array name="gallery_category_statistics">
+        <item>GalleryLockScreen_Recommend_Setting</item>
+        <item>GalleryLockScreen_Scenery_Setting</item>
+        <item>GalleryLockScreen_Building_Setting</item>
+        <item>GalleryLockScreen_Beauty_Setting</item>
+        <item>GalleryLockScreen_Star_Setting</item>
+        <item>GalleryLockScreen_Fashion_Setting</item>
+        <item>GalleryLockScreen_Food_Setting</item>
+        <item>GalleryLockScreen_Movie_Setting</item>
+        <item>GalleryLockScreen_Car_Setting</item>
+        <item>GalleryLockScreen_Originality_Setting</item>
+        <item>GalleryLockScreen_Sports_Setting</item>
+    </string-array>
+    <string-array name="preset_image_1">
+        <item>preset/nubia_gallery_lockscreen_preset_image_1</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_2">
+        <item>preset/nubia_gallery_lockscreen_preset_image_2</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_3">
+        <item>preset/nubia_gallery_lockscreen_preset_image_3</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_4">
+        <item>preset/nubia_gallery_lockscreen_preset_image_4</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_5">
+        <item>preset/nubia_gallery_lockscreen_preset_image_5</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_6">
+        <item>preset/nubia_gallery_lockscreen_preset_image_6</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_7">
+        <item>preset/nubia_gallery_lockscreen_preset_image_7</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_8">
+        <item>preset/nubia_gallery_lockscreen_preset_image_8</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_9">
+        <item>preset/nubia_gallery_lockscreen_preset_image_9</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_10">
+        <item>preset/nubia_gallery_lockscreen_preset_image_10</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_11">
+        <item>preset/nubia_gallery_lockscreen_preset_image_11</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_12">
+        <item>preset/nubia_gallery_lockscreen_preset_image_12</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_13">
+        <item>preset/nubia_gallery_lockscreen_preset_image_13</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_14">
+        <item>preset/nubia_gallery_lockscreen_preset_image_14</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_15">
+        <item>preset/nubia_gallery_lockscreen_preset_image_15</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_16">
+        <item>preset/nubia_gallery_lockscreen_preset_image_16</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_17">
+        <item>preset/nubia_gallery_lockscreen_preset_image_17</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_18">
+        <item>preset/nubia_gallery_lockscreen_preset_image_18</item>
+        <item> </item>
+        <item>‎ </item>
+    </string-array>
+    <string-array name="preset_image_19">
+        <item>preset/nubia_gallery_lockscreen_preset_image_19</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="preset_image_20">
+        <item>preset/nubia_gallery_lockscreen_preset_image_20</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+</resources>

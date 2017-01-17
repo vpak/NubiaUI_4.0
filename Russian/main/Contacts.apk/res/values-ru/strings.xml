@@ -174,7 +174,7 @@
     <string name="menu_done">Готово</string>
     <string name="menu_doNotSave">Отмена</string>
     <string name="menu_discard">Отменить</string>
-    <string name="label_notes">Примечания</string>
+    <string name="label_notes">Заметка</string>
     <string name="label_sip_address">Интернет-вызов</string>
     <string name="ghostData_company">Название</string>
     <string name="invalidContactMessage">Контакт удален.</string>
@@ -182,7 +182,7 @@
     <string name="pickerNewContactHeader">Создать новый контакт</string>
     <string name="pickerNewContactText">Добавить контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
-    <string name="emailLabelsGroup">Адрес электронной почты</string>
+    <string name="emailLabelsGroup">Адрес e-mail</string>
     <string name="imLabelsGroup">Чат</string>
     <string name="postalLabelsGroup">Адрес</string>
     <string name="photoPickerNotFoundText">В телефоне нет картинок.</string>
@@ -421,7 +421,7 @@
     <string name="nicknameLabelsGroup">Псевдоним</string>
     <string name="organizationLabelsGroup">Организация</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
-    <string name="eventLabelsGroup">Мероприятия</string>
+    <string name="eventLabelsGroup">День рождения</string>
     <string name="relationLabelsGroup">Отношения</string>
     <string name="groupsLabel">Группы</string>
     <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
@@ -515,7 +515,7 @@
     <string name="name_phonetic_middle">Отчество (транскрипция)</string>
     <string name="name_phonetic_family">Фамилия (транскрипция)</string>
     <string name="name_phonetic">Транскрипция имени</string>
-    <string name="connections">Соцсети</string>
+    <string name="connections">Соц. сети</string>
     <string name="add_connection_button">Добавить соцсеть</string>
     <string name="recent">Недавние</string>
     <string name="recent_updates">Недавние обновления</string>
@@ -678,7 +678,7 @@
     <string name="menu_export_database">Экспорт файлов базы данных</string>
     <string name="action_menu_overflow_description">Ещё</string>
     <string name="Import_All">Импортировать контакты со всех SIM</string>
-    <string name="ok">Ok</string>
+    <string name="ok">OК</string>
     <string name="cancel">Отмена</string>
     <string name="select_sim">Выбрать SIM</string>
     <string name="expand_collapse_name_fields_description">Показать/скрыть дополнительные поля</string>
@@ -753,7 +753,7 @@
     <string name="multi_select_empty">Нет контактов.</string>
     <string name="delete_contacts">Удаление контактов</string>
     <string name="msg_confirm_delete">Вы действительно хотите удалить выбранные контакты?</string>
-    <string name="yes">Ok</string>
+    <string name="yes">OК</string>
     <string name="discard">Удаление контактов</string>
     <string name="deleting_contacts">Удаление контактов</string>
     <string name="delete_stop_tip">Удаление контактов остановлено.</string>
@@ -1077,12 +1077,12 @@ Telecom"</string>
     <string name="recent_time">Недавние</string>
     <string name="menu_timeClear">Очистить данные времени</string>
     <string name="main_list_long_click_menu_starred">Посмотреть</string>
-    <string name="main_list_long_click_menu_cancel_starred">Удалить Отмеченное</string>
-    <string name="main_list_long_click_menu_edit">Редактировать</string>
+    <string name="main_list_long_click_menu_cancel_starred">Удалить</string>
+    <string name="main_list_long_click_menu_edit">Изменить</string>
     <string name="main_list_long_click_menu_delete">Удалить</string>
     <string name="not_enough_space_save_contact">Недостаточно памяти, контакты не могут быть сохранены.</string>
-    <string name="group_name">Название Групы</string>
-    <string name="notification_text_for_cancel_star">Удалить отмеченное</string>
+    <string name="group_name">Название групы</string>
+    <string name="notification_text_for_cancel_star">Удалить</string>
     <string name="ring_title">Рингтон</string>
     <string name="account_pre">"Сохранить в: "</string>
     <string name="yulore_page_clear_tag_describe">Очистить Тег</string>
@@ -1093,7 +1093,7 @@ Telecom"</string>
     <string name="yulore_page_is_my_tag">Это Мой Тег</string>
     <string name="yulore_page_service_unavailable">Телефонная книга недоступна</string>
     <string name="menu_mark_contact">Отметить</string>
-    <string name="nick_name">ник</string>
+    <string name="nick_name">Ник</string>
     <string name="call_out">исходящий</string>
     <string name="call_in">входящий</string>
     <string name="not_support_sim_contact">Контакты карты не поддерживают сохранение данной информации</string>

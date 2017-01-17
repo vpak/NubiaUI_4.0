@@ -23,8 +23,8 @@
     <string name="menu_free_snap_heart">Сердце</string>
     <string name="menu_free_snap_freepath">Произвольная форма</string>
     <string name="switch_mode_record_display">Запись экрана</string>
-    <string name="switch_mode_free_snap">Произвольный скриншот</string>
-    <string name="switch_mode_long_snap">Длинный скриншот</string>
+    <string name="switch_mode_free_snap">Произвольный</string>
+    <string name="switch_mode_long_snap">Скользящий</string>
     <string name="clip_menu_free_snap_rect">Прямоугольник</string>
     <string name="clip_menu_free_snap_circle">Круг</string>
     <string name="clip_menu_free_snap_freepath">Произвольная форма</string>
@@ -63,9 +63,9 @@
     <string name="turn_on_fingerprint_super_snap">Включить Скриншот отпечатком пальца</string>
     <string name="fingerprint_super_snap_introduction1">Нажмите и удерживайте палец на датчике для создания скриншота; освободите свои пальцы</string>
     <string name="fingerprint_super_snap_introduction2">Проведите пальцем вверх или вниз по сканеру отпечатка пальца для создания скользящего скриншота</string>
-    <string name="supersnap_guide_one_title_1">Получите сюрприз после нажатия на сканер отпечатка пальца</string>
-    <string name="supersnap_guide_one_title_2">Существует большая разница между нажатием и удерживанием комбинации клавиши</string>
-    <string name="supersnap_guide_one_summary_1">Удерживайте комбинацию или отпечаток пальца для запуска Скриншота</string>
+    <string name="supersnap_guide_one_title_1">Сюрприз!</string>
+    <string name="supersnap_guide_one_title_2">Между нажатием,  и удерживанием комбинации клавиш большая разница!</string>
+    <string name="supersnap_guide_one_summary_1">Удерживайте комбинацию или отпечаток для Скриншота</string>
     <string name="supersnap_guide_one_summary_2">Нажмите комбинацию клавиш для быстрого скриншота</string>
     <string name="supersnap_guide_one_summary_3">Удерживайте комбинацию клавиш для запуска Скриншота</string>
     <string name="supersnap_guide_one_button_text">Я знаю</string>
@@ -76,8 +76,8 @@
     <string name="long_snap_scrolling_max_height_toast">Скользящие скриншоты достигли предела</string>
     <string name="cancel_super_snap_when_mutil_window">Невозможно сделать скриншот в мультиоконном режиме</string>
     <string name="supersnap_finger_guide_one_summary_1">Поздравляем</string>
-    <string name="supersnap_finger_guide_one_summary_2">"Если не пользуетесь, то отключите функцию"</string>
-    <string name="supersnap_finger_guide_one_summary_3">Уже усвоили навыки создания скриншота отпечатком пальцев</string>
+    <string name="supersnap_finger_guide_one_summary_2">"Вы можете отключить функцию"</string>
+    <string name="supersnap_finger_guide_one_summary_3">Вы усвоили навыки создания скриншота с помощью сканера</string>
     <string name="supersnap_finger_guide_one_right_button_text">Продолжить</string>
     <string name="supersnap_finger_guide_one_left_button_text">Отключить</string>
     <string name="nubia_common_label">nubia</string>

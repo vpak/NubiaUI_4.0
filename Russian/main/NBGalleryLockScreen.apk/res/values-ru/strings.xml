@@ -11,7 +11,22 @@
     <string name="lockstyle_change_diversiformkg">Шаблон локскрина не поддерживается текущей темой, восстановить тему по умолчанию?</string>
     <string name="confirm">ОК</string>
     <string name="cancel">Отмена</string>
-
+    <string name="custom_screenonchange">Изменять при включении</string>
+    <string name="custom_handtochange">Включите экран для новой картинки</string>
+    <string name="custom_wlanautodownload">Обновлять по Wi-Fi</string>
+    <string name="custom_handtodownload">"При включеном Wi-Fi обои будут автоматически обновляться"</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="custom_provideby">%s</string>
+    <string name="subscribe_fail">Не удалось подписаться</string>
+    <string name="unsubscribe_fail">Не удалось отписаться</string>
+    <string name="activity_not_found">Нет приложений для отправки</string>
+    <string name="share">Отправить</string>
+    <string name="share_watermark_fail">Ошибка отправки</string>
+    <string name="nubia_lockscreen_magazine">Галерея обоев</string>
+    <string name="picture_no_support">Нет поддерживаемых картинок</string>
+    <string name="unlock_tip_into_amin">Двойной тап для информации</string>
+    <string name="detail_setting">Настройки</string>
+    <string name="detail_share">Отправить</string>
     <string name="nubia_capital_on">ВКЛ</string>
     <string name="nubia_capital_off">ВSRK.</string>
     <string name="nubia_time_picker_dialog_title">Настройка времени</string>

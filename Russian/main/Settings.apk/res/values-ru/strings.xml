@@ -1070,7 +1070,7 @@
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
-    <string name="tethering_help_button_text">Помощь</string>
+    <string name="tethering_help_button_text">Спр.</string>
     <string name="network_settings_title">Мобильные сети</string>
     <string name="manage_mobile_plan_title">Тарифный план</string>
     <string name="sms_application_title">Приложение для SMS</string>
@@ -3003,7 +3003,7 @@
     <string name="open_app_up">при свайпе ↑</string>
     <string name="open_app_down">при свайпе ↓</string>
     <string name="edge_flide_right">Свайп по правому краю</string>
-    <string name="edge_flide_repeat">Свай по краю несколько раз</string>
+    <string name="edge_flide_repeat">Свайп по краю несколько раз</string>
     <string name="mobile_acceleration">Ускорьте работу вашего телефона</string>
     <string name="edge_flide_bilateral">Свайп по двум краям</string>
     <string name="adjust_light">Настройка яркости</string>
@@ -3276,7 +3276,7 @@
     <string name="edge_flide_double_sided_desc">Настроить яркость</string>
     <string name="edge_flide_inward">Нажатие на край и свайп внутрь</string>
     <string name="edge_flide_inward_desc">Быстрый выбор рабочего стола</string>
-    <string name="edge_click_title">Двойное нажатие на край</string>
+    <string name="edge_click_title">Двойное нажатие по краю</string>
     <string name="edge_click_desc">Возвращение назад</string>
     <string name="red_packet_settings_title">Подарки для китайцев</string>
     <string name="one_key_red_packet_tile">Один ключ для подарка</string>

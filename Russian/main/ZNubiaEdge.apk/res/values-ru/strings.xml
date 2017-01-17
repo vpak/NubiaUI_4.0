@@ -88,13 +88,13 @@
     <string name="double_click_edge_title">Двойное нажатие на край</string>
     <string name="double_click_edge_desc">Позволяет вернуться на предыдущий экран</string>
     <string name="edge_flide_bilateral_desc">Переключение от автояркости на ручную</string>
-    <string name="edge_flide_inward">Удерживать край и свайп внутрь</string>
+    <string name="edge_flide_inward">Нажатие на край и свайп внутрь</string>
     <string name="edge_flide_inward_desc">Не поддерживает рабочие столы сторонних лаунчеров</string>
     <string name="clear_background_apps">Выгрузить фоновые приложения и освободить оперативную память</string>
     <string name="edge_flide_single_move_switch">Свайп по краю вверх/вниз</string>
     <string name="edge_flide_single_move_switch_desc">Переключение и запуск приложений</string>
-    <string name="edge_flide_repeat_screen_title">Свайпы несколько раз</string>
-    <string name="edge_flide_inward_screen_title">Удерживайте край и проведите внутрь</string>
+    <string name="edge_flide_repeat_screen_title">Свайп по краю несколько раз</string>
+    <string name="edge_flide_inward_screen_title">Нажатие на край и свайп внутрь</string>
     <string name="edge_flide_bilateral_screen_title">Свайп по обоим краям</string>
     <string name="guide_inward_title">Рабочие столы</string>
     <string name="guide_inward_desc">Для выбора рабочего стола свайп от края внутрь</string>
