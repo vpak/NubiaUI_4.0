@@ -154,7 +154,7 @@
     <string name="on_clear_cache">Дисковый кэш очищен</string>
     <string name="network_disable_update">Сеть недоступна</string>
     <string name="text_ranklist">ТОП</string>
-    <string name="text_categorylist">Категории</string>
+    <string name="text_categorylist">Кат.</string>
     <string name="text_topiclist">Темы</string>
     <string name="category">Категория</string>
     <string name="best_recomand">Рекомендации</string>
@@ -178,7 +178,7 @@
     <string name="empty_view_net_exception">Сетевая ошибка</string>
     <string name="empty_view_net_reloadtxt">Перезагрузить</string>
     <string name="empty_view_net_settingtxt">Сетевые настройки</string>
-    <string name="empty_view_net_loading">Загрузка</string>
+    <string name="empty_view_net_loading">Загрузка...</string>
     <string name="upgrade_download">Загрузка </string>
     <string name="no_data">Нет данных</string>
     <string name="local">Локальные</string>
@@ -198,7 +198,7 @@
     <string name="ring_is_downloading">Загружается</string>
     <string name="ring_start_downloading">Загрузить</string>
     <string name="local_list_title_theme">Темы</string>
-    <string name="no_data_in_local">Приветсвуем, загрузите данные</string>
+    <string name="no_data_in_local">Данные отсутствуют</string>
     <string name="playing_ring_file_not_exist">Файл отсутствует</string>
     <string name="playing_ring_fail">Не удалось воспроизвести</string>
     <string name="playing_ring_error">Ошибка воспроизведения</string>
@@ -216,5 +216,5 @@
     <string name="cancel_favorite_resource">Подтвердите отмену для: %s</string>
     <string name="favorite_deleting">Синхронизация данных с сервером</string>
     <string name="more_text">Ещё</string>
-    <string name="reclick_to_exit">Для выхода нажмите еще раз</string>
+    <string name="reclick_to_exit">Нажмите еще раз для выхода</string>
 </resources>

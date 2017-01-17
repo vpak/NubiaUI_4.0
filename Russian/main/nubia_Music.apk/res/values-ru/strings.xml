@@ -46,8 +46,7 @@
     <string name="ringtone_set">\"%s\" установить как рингтон телефона</string>
     <string name="create_playlist_create_text">Сохранить</string>
     <string name="playlist_name_template">Плейлист %d</string>
-    <string name="shuffle_all">Случайное
-    воспроизведение всех</string>
+    <string name="shuffle_all">Случайная ♫</string>
     <string name="play_all">Воспроизвести все</string>
     <string name="shuffle_hot">Случайное воспроизведение хитов</string>
     <string name="delete_confirm_button_text">Удалить: %s</string>
@@ -68,7 +67,7 @@
     <string name="playlist_renamed_message">Плейлист переименован</string>
     <string name="rename_playlist_menu">Переименовать</string>
     <string name="settings">Настройки</string>
-    <string name="setting_time_filter">Менее минуты</string>
+    <string name="setting_time_filter">Исключить менее 60 сек.</string>
     <string name="album">Альбом</string>
     <string name="singer">Исполнитель</string>
     <string name="search">Поиск</string>
@@ -85,7 +84,7 @@
     <string name="buffering">Буферизация</string>
     <string name="play_manager">Обратно в плейлист</string>
     <string name="nowplayinglist">Плейлист</string>
-    <string name="playhistory">История воспроизведений</string>
+    <string name="playhistory">История</string>
     <string name="download_downloading">Загрузки</string>
     <string name="download_downloaded">Загружено</string>
     <string name="playlist_is_empty">Пустой плейлист</string>
@@ -103,7 +102,7 @@
     <string name="my_tab_album">Альбомы</string>
     <string name="my_tab_empty_hint">Нажмите для сканирования музыки локально или поиска в режиме онлайн</string>
     <string name="my_tab_empty_hint_link">Онлайн</string>
-    <string name="album_data">yyyy-MM</string>
+    <string name="album_data">MM-yyyy</string>
     <string name="net_error_textempty">Нажмите, чтобы обновить данные</string>
     <string name="net_error_textempty_click">или прослушать &lt;a href=1>&lt;u> мою &lt;/u>&lt;/a>музыку</string>
     <string name="update_downloading">Загрузки</string>
@@ -180,7 +179,7 @@
     <string name="delete_songs_desc_new">Удалить песни: \"%s\" ?</string>
     <string name="user_feedback_str">Связь с пользователем</string>
     <string name="account_register_login">Регистрация пользователя/Авторизация</string>
-    <string name="song_unit">Песни</string>
+    <string name="song_unit"> ♫ </string>
     <string name="about_app">Информация о Nubia Музыка</string>
     <string name="about_app_nubia">Музыка Nubia</string>
     <string name="unkonw_version">Неизвестная версия</string>
@@ -201,7 +200,7 @@
     <string name="sina_weibo_share_not_support">Версия Sina weibo не поддерживается</string>
     <string name="share_to_weibo">Sina Weibo</string>
     <string name="share_to_weixin">WeChat</string>
-    <string name="share_to_weixin_friends">Moments</string>
+    <string name="share_to_weixin_friends">Моменты</string>
     <string name="sina_weibo_not_installed">Вы еще не установили Sina Weibo</string>
     <string name="share_nubia_text">%1$s Сделать трек общедоступным 《%2$s》</string>
     <string name="share_nubia_text_album">%1$s Сделать альбом общедоступным 《%2$s》</string>
@@ -218,17 +217,17 @@
     <string name="download_playlist">Загрузить все</string>
     <string name="load_more">Загрузить больше</string>
     <string name="lyric_recover">Обновить</string>
-    <string name="lyric_none">Лирика не найдена</string>
-    <string name="lyric_select">Выбрать лирику</string>
-    <string name="lyric_mismatch">Лирика не совпадает с данной песней, продолжить?</string>
+    <string name="lyric_none">Ничего не найдено</string>
+    <string name="lyric_select">Выбрать текст песни</string>
+    <string name="lyric_mismatch">Текст песни не совпадает с данной композицией, продолжить?</string>
     <string name="voice_recognize">Распознавание трека</string>
     <string name="block_error">Не удалось выполнить кэширование</string>
     <string name="create_playlist_success">Плейлист создан успешно</string>
-    <string name="playlist_exisit">Плейлист существует</string>
+    <string name="playlist_exisit">Плейлист уже существует</string>
     <string name="delete_playlist_desc_new">Удалить навсегда \"%s\" песни?</string>
     <string name="singleplaylist">( %s плейлист)</string>
     <string name="delete_playlist_success">Плейлист удален успешно</string>
-    <string name="download_via_wlan">Загрузка и прослушивание только по Wi-Fi</string>
+    <string name="download_via_wlan">Загрузка? прослушивание по Wi-Fi</string>
     <string name="card_one">Мелодия для телефонной карты 1</string>
     <string name="card_two">Мелодия для телефонной карты 2</string>
     <string name="copyright_err">Извините, в связи с правами обладателя, песня не загружается</string>
@@ -268,10 +267,10 @@
     <string name="scan_whitelist_folderDescription_KwTingShu">KwTingShu</string>
     <string name="scan_whitelist_folderDescription_bluetooth">Bluetooth</string>
     <string name="scan_whitelist_folderDescription_ting">Гималаи FM</string>
-    <string name="scan_found_song">Песни</string>
+    <string name="scan_found_song"> ♫ </string>
     <string name="setting_audiosize_filter">Исключить треки &lt; 500 кВ</string>
     <string name="already_scan">Сканирование...</string>
-    <string name="already_add">Добавлено треков:</string>
+    <string name="already_add">Добавлено треков: </string>
     <string name="add_song_count"> ♫</string>
     <string name="not_found_song">Новые треки не были найдены</string>
     <string name="refresh_data">Щелкните значок обновления</string>
@@ -304,8 +303,7 @@
     <string name="close_wifi_remind">Коммутатор беспроводной сети WLAN следует использовать только в замкнутом состоянии. Контролируйте потребляемый объём вашего сетевого трафика</string>
     <string name="onlineplay_nowifi">В связи с доступностью режима WiFi воспроизводить исключительно локальные музыкальные файлы</string>
     <string name="pause_all_download">Остановить все</string>
-    <string name="download_manager">Менеджер
-загрузки</string>
+    <string name="download_manager">Загрузки</string>
     <string name="already_pause_downlaod">Загрузка приостановлена</string>
     <string name="dongload_songs_notification">( %s Треков)</string>
     <string name="clear_downloadlist">Вы уверены, что хотите очистить список загрузок?</string>
@@ -325,12 +323,12 @@
     <string name="share_failed_file_unexist">Файл не существует, совместный доступ к данному треку организовать невозможно</string>
     <string name="share_failed_network_unavailable">Сеть недоступна, пожалуйста, подключите сеть</string>
     <string name="share_failed_net_res_unexist">Невозможно найти сетевой ресурс, совместный доступ к данному треку организовать невозможно</string>
-    <string name="sort_music_time">Сортировка по времени</string>
+    <string name="sort_music_time">Сортировка по длительности</string>
     <string name="sort_music_letter">Сортировка по имени</string>
     <string name="scan_local_songs">Сканировать наличие музыки</string>
     <string name="shareing">Активация совместного доступа…</string>
     <string name="music_file_unexist">Файл не существует</string>
-    <string name="search_lyric">Поиск лирики</string>
+    <string name="search_lyric">Искать текст песни</string>
     <string name="firstpage_title_first">nubia</string>
     <string name="firstpage_title_second">Музыка</string>
     <string name="network_is_poor">В работе сети обнаружены неполадки, пожалуйста, повторите попытку позже</string>
