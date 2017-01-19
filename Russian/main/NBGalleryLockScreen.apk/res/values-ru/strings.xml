@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_format">EEE, MMMM d</string>
+    <string name="date_format">d MMMM, EEE</string>
     <string name="app_name">Галерея заставок</string>
     <string name="lockstyle_custom">Пользовательский</string>
     <string name="lockstyle_use">Использовать</string>
@@ -25,10 +25,10 @@
     <string name="nubia_lockscreen_magazine">Галерея обоев</string>
     <string name="picture_no_support">Нет поддерживаемых картинок</string>
     <string name="unlock_tip_into_amin">Двойной тап для информации</string>
-    <string name="detail_setting">Настройки</string>
-    <string name="detail_share">Отправить</string>
+    <string name="detail_setting">Настройка</string>
+    <string name="detail_share">Отпр.</string>
     <string name="nubia_capital_on">ВКЛ</string>
-    <string name="nubia_capital_off">ВSRK.</string>
+    <string name="nubia_capital_off">ВЫКЛ.</string>
     <string name="nubia_time_picker_dialog_title">Настройка времени</string>
     <string name="nubia_setting_date">Настройка даты</string>
     <string name="nubia_date_year">год</string>
@@ -72,7 +72,7 @@
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activity_chooser_view_see_all">Все</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению %s</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="action_bar_up_description">Перейти вверх</string>

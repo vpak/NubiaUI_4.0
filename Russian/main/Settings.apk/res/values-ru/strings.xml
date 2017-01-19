@@ -262,12 +262,12 @@
     <string name="radio_controls_title">Ещё</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
     <string name="radio_controls_summary">Настройки Wi-Fi, Bluetooth, режима полета, мобильных сетей и VPN</string>
-    <string name="cellular_data_title">Передача данных</string>
-    <string name="data_disabled_in_active_call">Сотовые данные отключены, если вызов активен.</string>
+    <string name="cellular_data_title">Интернет</string>
+    <string name="data_disabled_in_active_call">При активном вызове интернет недоступен.</string>
     <string name="calls_title">Телефонные звонки</string>
     <string name="sms_messages_title">SMS</string>
-    <string name="cellular_data_summary">Разрешить использовать передачу данных</string>
-    <string name="allow_data_usage_title">Передавать данные в роуминге</string>
+    <string name="cellular_data_summary">Разрешить использование интернета</string>
+    <string name="allow_data_usage_title">Интернет в роуминге</string>
     <string name="roaming">Интернет-роуминг</string>
     <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
@@ -835,7 +835,7 @@
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
     <string name="sim_multi_sims_title">Обнаружено более одной SIM-карты</string>
-    <string name="sim_multi_sims_summary">Выберите SIM-карту для мобильных данных.</string>
+    <string name="sim_multi_sims_summary">Выберите SIM-карту для интернета.</string>
     <string name="sim_pin_change_failed_enable_sim_lock">Невозможно изменить SIM / RUIM PIN-код. Включена блокировка SIM / RUIM.</string>
     <string name="sim_enable_disable_lock_not_supported">Невозможно изменить блокировку SIM / RUIM. SIM / RUIM не поддерживает его.</string>
     <string name="sim_pin_attempts">Осталось попыток:</string>
@@ -843,10 +843,10 @@
     <string name="sim_pin_disabled">PIN1 Отключен!</string>
     <string name="sim_pin_i_enabled">PIN%1$s Включен!</string>
     <string name="sim_pin_i_disabled">PIN%1$s Выключен!</string>
-    <string name="sim_change_data_title">SIM-карта для передачи данных</string>
-    <string name="sim_change_data_message">Использовать для передачи данных по мобильной сети эту SIM-карту: %1$s (вместо %2$s)?</string>
+    <string name="sim_change_data_title">SIM-карта для интернета</string>
+    <string name="sim_change_data_message">Использовать для интернета SIM-карту: %1$s (вместо %2$s)?</string>
     <string name="sim_preferred_title">Изменить основную SIM-карту?</string>
-    <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать ее для звонков, отправки SMS-сообщений и передачи мобильных данных?</string>
+    <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать ее для звонков, отправки SMS-сообщений и интернета?</string>
     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="pin_failed">Не удалось разблокировать SIM-карту</string>
     <string name="device_info_settings">Состояние телефона</string>
@@ -1232,7 +1232,7 @@
 "<li>список отключенных приложений;</li>"
 "<li>уведомления для отключенных приложений;</li>"
 "<li>список приложений по умолчанию;</li>"
-"<li>ограничения на передачу данных в фоновом режиме;</li>"
+"<li>ограничения на интернет в фоновом режиме;</li>"
 "<li>ограничения на разрешения.</li>"
 
 Данные приложений удалены не будут."</string>
@@ -1445,7 +1445,7 @@
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если сигнал Wi-Fi слабый</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время использования интернета в зависимости от объема трафика</string>
     <string name="select_logd_size_title">Размер буфера журнала</string>
     <string name="select_logd_size_dialog_title">Выберите размер буфера журнала</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
@@ -2036,12 +2036,12 @@
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="show_all_anrs">Все ANR</string>
     <string name="show_all_anrs_summary">Уведомлять о том, что приложение не отвечает</string>
-    <string name="data_usage_summary_title">Передача данных</string>
+    <string name="data_usage_summary_title">Интернет</string>
     <string name="data_usage_app_summary_title">Трафик приложения</string>
     <string name="data_usage_accounting">Статистика вашего оператора связи может отличаться от статистики устройства.</string>
     <string name="data_usage_app">Приложения</string>
     <string name="data_usage_app_info_label">О ПРИЛОЖЕНИИ</string>
-    <string name="data_usage_cellular_data">Передача данных</string>
+    <string name="data_usage_cellular_data">Интернет</string>
     <string name="data_usage_data_limit">Установить лимит использования трафика</string>
     <string name="data_usage_cycle">Период статистики</string>
     <string name="data_usage_app_items_header_text">Приложения</string>
@@ -2079,9 +2079,9 @@
     <string name="data_usage_tab_3g">2G/3G</string>
     <string name="data_usage_list_mobile">Мобильные</string>
     <string name="data_usage_list_none">Нет сетей</string>
-    <string name="data_usage_enable_mobile">Передача данных</string>
-    <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
-    <string name="data_usage_enable_4g">Передача данных 4G</string>
+    <string name="data_usage_enable_mobile">Интернет</string>
+    <string name="data_usage_enable_3g">Интернет через 2G/3G</string>
+    <string name="data_usage_enable_4g">Интернет через 4G</string>
     <string name="data_usage_forground_label">Активный режим:</string>
     <string name="data_usage_background_label">Фоновый режим</string>
     <string name="data_usage_app_settings">Настройки приложений</string>
@@ -2347,7 +2347,7 @@
     <string name="sim_settings_summary">SIM-карта %1$s: %2$s</string>
     <string name="sim_cards_changed_message">SIM-карты изменились</string>
     <string name="sim_cards_changed_message_summary">Нажмите, чтобы задать действия</string>
-    <string name="sim_cellular_data_unavailable">Передача данных недоступна</string>
+    <string name="sim_cellular_data_unavailable">Интернет недоступен</string>
     <string name="sim_cellular_data_unavailable_summary">Нажмите, чтобы выбрать SIM-карту для мобильных данных</string>
     <string name="sim_calls_always_use">Всегда использовать для звонков</string>
     <string name="select_sim_for_data">SIM-карта для передачи данных</string>
@@ -2619,7 +2619,7 @@
     <string name="screen_save_title">Экран</string>
     <string name="screen_save_summary">Уменьшить яркость, уменьшить время подсветки, отключить автоповорот экрана</string>
     <string name="turnoff_all_connection_title">Отключить интернет</string>
-    <string name="turnoff_all_connection_summary">Передача данных, Bluetooth, Wi-Fi, точка доступа Wi-Fi, GPS</string>
+    <string name="turnoff_all_connection_summary">Интернет, Bluetooth, Wi-Fi, точка доступа Wi-Fi, GPS</string>
     <string name="turnoff_haptic_feedback_title">Отключить виброотклик</string>
     <string name="turnoff_haptic_feedback_summary">Отключение вибрации при нажатии может уменьшить энергопотребление.</string>
     <string name="powersave_actionbar_title">Энергосбережение</string>
@@ -2791,7 +2791,7 @@
     <string name="card_c_lte_toast">SIM-1 и SIM-2 поддерживают сети 2G/3G/4G. Однако если одна карта работает в сети 3G/4G, вторая может работать только в сети GSM 2G.</string>
     <string name="card_w_toast">SIM-1 и SIM-2 поддерживают сети 2G/3G. Однако если одна карта работает в сети 3G/4G, вторая может работать только в сети GSM 2G.</string>
     <string name="card_w_c_toast">SIM-1 и SIM-2 поддерживают сети 2G/3G. Однако если одна карта работает в сети 3G/4G, вторая может работать только в сети GSM 2G.</string>
-    <string name="data_network">Передача данных</string>
+    <string name="data_network">Интернет</string>
     <string name="card_on">Включена</string>
     <string name="card_off">Отключена</string>
     <string name="card_error">Неизвестно</string>

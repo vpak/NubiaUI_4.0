@@ -78,7 +78,7 @@
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка.</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
     <string name="forward_prefix">"Fwd: "</string>
-    <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один реальный получатель.</string>
+    <string name="discard_message_reason">Получатель не указан, сообщение будет удалено!</string>
     <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
     <string name="invalid_destination">Неверный адрес получателя.</string>
     <string name="service_not_activated">Услуга не активирована в сети.</string>
@@ -374,15 +374,15 @@
     <string name="pref_summary_manage_card2_messages">Редактировать сообщения, сохраненные на вашей СИМ-карте 2</string>
     <string name="pref_title_manage_card2_messages">Управление сообщениями на SIM 2</string>
     <string name="manage_multi_card_ui_title">Редактировать сообщения, сохраненные на выших СИМ-картах</string>
-    <string name="select_delete_msg">Удалить Выбранные %1$d Сообщений?</string>
-    <string name="select_delete_favourited_msg">Удалить Избранные Сообщения?</string>
+    <string name="select_delete_msg">Сообщений для удаления: %1$d</string>
+    <string name="select_delete_favourited_msg">Удалить любимые сообщения?</string>
     <string name="search_result">Результаты</string>
     <string name="copy_verify_code">Копировать</string>
     <string name="code">Код Подтверждения</string>
     <string name="code_check">Контрольный код</string>
     <string name="message_detail_card_indicator_out">Сообщение отправлено с СИМ-карты %s</string>
     <string name="message_detail_card_indicator_in">Сообщение получено на СИМ-карту %s</string>
-    <string name="copy_to_card_success">Скопировано успешно</string>
+    <string name="copy_to_card_success">Успешно скопировано</string>
     <string name="copy_to_card_fail">Скопировать не удалось</string>
     <string name="wait_for_copy_sms_to_sim">Пожалуйста, подождите, пока сообщения будут скопированы</string>
     <string name="resend">Отправить повторно</string>
