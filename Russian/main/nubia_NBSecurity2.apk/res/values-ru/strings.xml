@@ -354,7 +354,7 @@
     <string name="app_cache_file">Мусор приложений</string>
     <string name="garbage_package_cache_file">Кэш</string>
     <string name="uninstall_residual">Хвосты от APK</string>
-    <string name="garbage_item_path"> шт. </string>
+    <string name="garbage_item_path">&#160;шт.&#160;</string>
     <string name="scan_garbage_item_path">0 шт. 0 b</string>
     <string name="scan_pause_text_show">Идет сканирование, пожалуйста подождите...</string>
     <string name="clear_garbage_path_scan">Посмотреть</string>
@@ -450,7 +450,7 @@
     <string name="toast_clean_single_file_path">Путь:</string>
     <string name="toast_clean_single_file_type">Тип:</string>
     <string name="toast_clean_single_path">Путь </string>
-    <string name="toast_clean_single_file_size">Удалено мусора: %1$s</string>
+    <string name="toast_clean_single_file_size">Удалено мусора на: %1$s</string>
     <string name="toast_single_file_add_whitelist">Добавлено в \"Белый список\"</string>
     <string name="nothing_clean">Ваш телефон очищен</string>
     <string name="system_app">система</string>
@@ -798,7 +798,7 @@
     <string name="remoteguard_return_to_niudun">neoSafe</string>
     <string name="remoteguard_immediateopen">Включить</string>
     <string name="remoteguard_openning">Включено, убедитесь, что отправка и прием SMS работает корректно</string>
-    <string name="remoteguard_openantitheft">Антивор задействован</string>
+    <string name="remoteguard_openantitheft">\"Антивор\" задействован</string>
     <string name="remoteguard_pls_input_less_than_16_password">Пароль</string>
     <string name="remoteguard_pls_input_password_again">Повторите пароль</string>
     <string name="remoteguard_finish">ОК</string>
@@ -809,17 +809,17 @@
     <string name="remoteguard_howtodo_when_mobile_lost">Что делать, если телефон утерян?</string>
     <string name="remoteguard_input_antitheft_password">Пожалуйста, введите пароль!</string>
     <string name="remoteguard_input_antitheft_hint">Теперь ваш телефон защищен!</string>
-    <string name="remoteguard_input_antitheft_shutdown">Выключить Антивор</string>
+    <string name="remoteguard_input_antitheft_shutdown">Выключить \"Антивор\"</string>
     <string name="remoteguard_input_password_error">Неправильный пароль, попробуйте ещё!</string>
-    <string name="remoteguard_wizard_description">Дистанционное стирание данныех</string>
+    <string name="remoteguard_wizard_description">Дистанционное стирание данных</string>
     <string name="remoteguard_wizard_description_new">Соединение тебя и меня</string>
-    <string name="remoteguard_title_of_setting_password">Введите пароль для Антивора</string>
-    <string name="remoteguard_title_setup">Включение Антивора...</string>
+    <string name="remoteguard_title_of_setting_password">Введите пароль для \"Антивора\"</string>
+    <string name="remoteguard_title_setup">Включение \"Антивора\"...</string>
     <string name="remoteguard_sent_sms_to_urgent_contact_opt">Отправить это сообщение, чтобы вы смогли найти свой телефон.</string>
     <string name="remoteguard_update_urgent_contact0">Введите номер</string>
     <string name="remoteguardsettingguidecontent3h">Для восстановления</string>
     <string name="remoteguard_safe_pwdchange">Изменить пароль</string>
-    <string name="remoteguard_settingguidecontent1c">SMS о тревоге</string>
+    <string name="remoteguard_settingguidecontent1c">SMS при смене SIM-карты</string>
     <string name="remoteguard_settingguidecontent3r">Введите Ваше имя</string>
     <string name="remoteguard_settingguidecontent3l">Это </string>
     <string name="remoteguard_sms_usefor_tisp1">Это сообщение будет отправлено автоматически на введенный номер при смене SIM-карты</string>
@@ -827,55 +827,61 @@
     <string name="remoteguard_safe_phone">Номер для управления</string>
     <string name="remoteguard_pls_input_new_password">Пожалуйста, введите новый пароль</string>
     <string name="remoteguard_has_not_simcard">В телефоне отсутствует SIM-карта, невозможно включить Антивор</string>
-    <string name="remoteguard_opened">Антивор включен</string>
-    <string name="remoteguard_unopen">Антивор не включен</string>
+    <string name="remoteguard_opened">\"Антивор\" включен</string>
+    <string name="remoteguard_unopen">\"Антивор\" не включен</string>
     <string name="remoteguard_mobile_locationvar">Координаты телефона, широта: %1$s долгота: %2$s</string>
     <string name="remoteguard_mobile_locationfailed">Сбой определения местоположения</string>
-    <string name="remoteguard_add_friend_number">Добавить номер</string>
+    <string name="remoteguard_add_friend_number">Изменить номер</string>
     <string name="remoteguard_find_mobile_by_sendsms">Найти телефон отправкой сообщения</string>
-    <string name="remoteguard_urgent_number_function_description">Примечание: позвольте знакомым защитить Ваш телефон, получив Ваши команды и пароль. Если телефон утерян, то сохраненные команды помогут тебе его найти.</string>
+    <string name="remoteguard_urgent_number_function_description">Позвольте знакомым защитить Ваш телефон, получив команды и пароль.</string>
     <string name="remoteguard_password_inconsistent">Пароль не совпадает</string>
     <string name="remoteguard_password_strength_level1">Надежный пароль</string>
     <string name="remoteguard_password_strength_level2">Средний пароль</string>
     <string name="remoteguard_password_strength_level3">Слабый пароль</string>
-    <string name="remoteguard_acknown_your_name_by_sendsms">Отправка сообщения при подозрении, что телефон украден или потерян.</string>
+    <string name="remoteguard_acknown_your_name_by_sendsms">Отправка сообщения при несанкционированной смене SIM.</string>
     <string name="remoteguard_settingguidecontent3i">Неверный номер!</string>
     <string name="remoteguard_pls_input_old_password">Введите старый пароль</string>
-    <string name="remoteguard_password_prefix">Ваш пароль Антивора:</string>
-    <string name="remoteguard_manoeuvre_title">Потренируйтесь?</string>
-    <string name="remoteguard_manoeuvre_summary">Попробовать найти телефон с другом</string>
+    <string name="remoteguard_password_prefix">Ваш пароль \"Антивора\": </string>
+    <string name="remoteguard_manoeuvre_title">Потренируетесь?</string>
+    <string name="remoteguard_manoeuvre_summary">Попробовать найти телефон с партнером</string>
     <string name="remoteguard_command_illustrate_title">Тренировка</string>
-    <string name="remoteguard_command_illustrate_title_postfix">Завершено</string>
-    <string name="remoteguard_command_illustrate_summary">Пригласите партнера для тренировки. Выйграйте звезду по завершению испытания.</string>
+    <string name="remoteguard_command_illustrate_title_postfix">завершена</string>
+    <string name="remoteguard_command_illustrate_summary">Пригласите партнера для тренировки. Выйграйте звезды по завершению испытания.</string>
     <string name="remoteguard_manoeuvre_try_now">Потренируемся?</string>
-    <string name="remoteguard_manoeuvre_try_label">Попробую</string>
+    <string name="remoteguard_manoeuvre_try_label">Попробовать</string>
     <string name="remoteguard_manoeuvre_trying">Попробовал</string>
     <string name="remoteguard_sms_remote_launch">Антивор</string>
-    <string name="remoteguard_sms_remote_control_commands_introduction">"Команды \"Антивора\": 1. Забить тревогу;
- 2. Заблокировать телефон;
- Ответьте с номером#паролем (например, 1#0000) для выполнения команды. Если Вы забудете пароль, отправьте команду zhaohui#."</string>
+    <string name="remoteguard_sms_remote_control_commands_introduction">"Команды для \"Антивора\":
+1. Сигнал тревогу.
+2. Заблокировать телефон.
+3. Форматирование.
+Ответ в SMS \"номер#пароль\" для выполнения команды."</string>
     <string name="remoteguard_sms_remote_control_command_executed_suffix">Команда выполнена</string>
-    <string name="remoteguard_illustrate_prefix">"Отправьте СМС с текстом \"Антивор\" на потерянный телефон
- для получения инструкций по командам антивора. Ответ с номером и паролем выполнит команду. Например, Ваш пароль 0000; отправьте "1#0000" для включения тревоги на утерянном телефоне."</string>
-    <string name="remoteguard_illustrate_content" />
-    <string name="remoteguard_illustrate_suffix">"Отправьте СМС на потерянный телефон
- для получения инструкций по командам антивора. Ответ с номером и паролем выполнит команду. Например, Ваш пароль 0000; отправьте "1#0000" для включения тревоги на утерянном телефоне."</string>
+    <string name="remoteguard_illustrate_prefix">"Отправьте SMS с текстом \"Антивор\" на потерянный телефон
+ для получения инструкций."</string>
+    <string name="remoteguard_illustrate_suffix">"Отправьте SMS с текстом \"Антивор\" на потерянный телефон
+ для получения инструкций."</string>
     <string name="remoteguard_mobilelocation_illustrate">1. Включите сигнал тревоги</string>
     <string name="remoteguard_mobilelock_illustrate">2. Заблокируйте телефон</string>
-    <string name="remoteguard_cleardata_illustrate">3. Запросите у друга пароль и сотрите данные</string>
-    <string name="remoteguard_command_alarm_executed">Команда -Сигнал тревоги- была выполнена</string>
-    <string name="remoteguard_command_lock_executed">Команда -Заблокировать телефон- была выполнена</string>
-    <string name="remoteguard_command_wipe_executed">Команда -Очистить данные- была выполнена</string>
-    <string name="remoteguard_command_find_password">Ваш пароль был отправлен на надежный номер</string>
+    <string name="remoteguard_cleardata_illustrate">3. Запросите у партнера пароль и сотрите данные</string>
+    <string name="remoteguard_command_alarm_executed">Была выполнена команда \"Сигнал тревоги\" !</string>
+    <string name="remoteguard_command_lock_executed">Была выполнена команда \"Заблокировать телефон\" !</string>
+    <string name="remoteguard_command_wipe_executed">Была выполнена команда \"Форматирование телефона\" !</string>
+    <string name="remoteguard_command_find_password">Ваш пароль был отправлен на надежный номер!</string>
     <string name="remoteguard_urgent_contacts_list_text">Контакты</string>
     <string name="remoteguard_urgent_contacts_setting_tag">Номер</string>
-    <string name="remoteguard_sim1_send_sms_to_urgent_contact">Отправка с SIM 1</string>
-    <string name="remoteguard_sim2_send_sms_to_urgent_contact">Отправка с SIM 2</string>
-    <string name="remoteguard_settingguidecontent3m">Приветствую! Если Вы увидели это сообщение, то мой телефон, скорее всего, украли. Пожалуйста сообщите мне номер отправителя этого сообщения, спасибо! [Подсказка Антивора от Nubia]</string>
-    <string name="remoteguard_update_urgent_contact_success_sms">Если мой телефон будет утерян, Вы сможете помочь мне его найти.     Сохраните SMS с командами: Сигнал тревоги: alarm#пароль: lock#парольСтереть данные: delete#пароль; найти пароль: find#</string>
-    <string name="remoteguard_exposure_dialog_string">Включена функция блокировки, введите пароль Антивора для отключения</string>
-    <string name="remoteguard_screenlock_string">Включена блокировка телефона, введите пароль</string>
-    <string name="remoteguard_screenlock_string_findpassword">Отправить SMS на запасной номер для восстановления пароля</string>
+    <string name="remoteguard_sim1_send_sms_to_urgent_contact">Отправка с SIM-1</string>
+    <string name="remoteguard_sim2_send_sms_to_urgent_contact">Отправка с SIM-2</string>
+    <string name="remoteguard_settingguidecontent3m">Приветствую! Мой телефон, скорее всего, украли. Сообщите мне лично номер отправителя этого сообщения, спасибо!</string>
+    <string name="remoteguard_update_urgent_contact_success_sms">Если мой телефон украдут, Вы сможете помочь найти его.
+Сохраните SMS с командами:
+Сигнал тревоги: тревога#пароль
+Заблокировать: блок#пароль
+Форматирование: формат#пароль
+Вспомнить пароль: пароль#</string>
+    <string name="remoteguard_exposure_dialog_string">Включена функция блокировки, введите пароль \"Антивора\" для отключения:</string>
+    <string name="remoteguard_screenlock_string">Включена блокировка телефона, введите пароль:</string>
+    <string name="remoteguard_screenlock_string_findpassword">Отправить SMS для восстановления пароля</string>
     <string name="remoteguard_password_empty_information">Пароль пуст, повторите</string>
     <string name="harassintercept_recover_success">Восстановлено</string>
     <string name="module_harass_intercept_name">Антиспам</string>

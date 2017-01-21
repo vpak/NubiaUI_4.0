@@ -1039,8 +1039,8 @@ Telecom"</string>
     <string name="content_description_recent_call_type_outgoing">Исходящий вызов</string>
     <string name="content_description_recent_sms">Недавние СМС: %s, кликните, чтобы ответить</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
-    <string name="description_action_menu_add_star">Добавлено в избранное</string>
-    <string name="description_action_menu_remove_star">Удалено из избранного</string>
+    <string name="description_action_menu_add_star">Добавлено в любимые</string>
+    <string name="description_action_menu_remove_star">Удалено из любимых</string>
     <string name="untitled_event">(Неозаглавленные события)</string>
     <string name="tomorrow_at_time_fmt">Завтра в %s</string>
     <string name="tomorrow">Завтра</string>
