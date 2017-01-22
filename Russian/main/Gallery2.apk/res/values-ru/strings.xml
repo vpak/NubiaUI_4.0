@@ -30,7 +30,7 @@
     <string name="wallpaper">Установка обоев...</string>
     <string name="camera_setas_wallpaper">Обои</string>
     <string name="delete">Удалить</string>
-    <string name="confirm">Подтвердить</string>
+    <string name="confirm">ОК</string>
     <string name="cancel">Отмена</string>
     <string name="share">Отправить</string>
     <string name="deleted">Удалено</string>
@@ -133,8 +133,8 @@
     <string name="folder_imported">Импортированные</string>
     <string name="folder_screenshot">Скриншоты</string>
     <string name="help">Справка</string>
-    <string name="module_gallery">Облачная Галерея</string>
-    <string name="module_gallery_description">Облачная Галерея</string>
+    <string name="module_gallery">Облако для Галереи</string>
+    <string name="module_gallery_description">Облако для Галереи</string>
     <string name="video_share">Передать</string>
     <string name="video_edit">Редактировать</string>
     <string name="video_encrypt">Шифровать</string>
@@ -368,7 +368,7 @@
     <string name="upload_done">Загрузка завершена (%1$d)</string>
     <string name="upload_error">Ошибка загрузки</string>
     <string name="waiting">Ожидание ...</string>
-    <string name="number_of_selected">Выбрано %1$d</string>
+    <string name="number_of_selected">Выбрано: %1$d</string>
     <string name="delete_download_now_msg">Загрузка не завершена, вы уверены, что хотите удалить?</string>
     <string name="delete_download_done_msg">Удалить только загруженные записи и не удалять загруженный файл</string>
     <string name="delete_upload_now_msg">Загрузка не завершена, вы уверены, что хотите удалить?</string>

@@ -26,8 +26,8 @@
     <string name="global_actions_toggle_airplane_mode">Режим полета</string>
     <string name="clockwidget_time_format">dd-MM</string>
     <string name="clockwidget_digital_clock_date_format">dd/MM</string>
-    <string name="clockwidget_digital_clock_hour_format_12">hh:mm:ss</string>
-    <string name="clockwidget_digital_clock_hour_format_24">kk:mm:ss</string>
+    <string name="clockwidget_digital_clock_hour_format_12">hh:mm</string>
+    <string name="clockwidget_digital_clock_hour_format_24">kk:mm</string>
     <string name="clockwidget_digital_clock_week_format">E</string>
     <string name="global_action_silent">Бесшумный режим</string>
     <string name="global_action_vibrate">Режим вибрации</string>

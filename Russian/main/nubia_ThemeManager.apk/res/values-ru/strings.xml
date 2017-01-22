@@ -111,7 +111,7 @@
     <string name="delete_info">Вы действительно хотите удалить тему?</string>
     <string name="cannot_delete_using_theme">Вы не можете удалить активную тему</string>
     <string name="cannot_delete_system_theme">Вы не можете удалить системную тему</string>
-    <string name="theme_introduction_title">Введение</string>
+    <string name="theme_introduction_title">Описание:</string>
     <string name="theme_designer">Дизайнер: </string>
     <string name="theme_version">Версия: </string>
     <string name="theme_stars">Рейтинг: </string>
@@ -124,8 +124,8 @@
     <string name="download_theme">Загрузить</string>
     <string name="pausing">Приостановить</string>
     <string name="importing">Импорт...</string>
-    <string name="connecting_download">Соединение</string>
-    <string name="theme_update_log_title">Список изменений</string>
+    <string name="connecting_download">Соединение...</string>
+    <string name="theme_update_log_title">Изменения:</string>
     <string name="theme_configurating">Применение темы...</string>
     <string name="use_mobile_net_message">Скачивание через мобильную сеть, продолжить?</string>
     <string name="use_mobile_net">Открыть</string>
@@ -143,8 +143,8 @@
     <string name="mobile_network">Переключено в режим сотовой сети, загрузка была приостановлена</string>
     <string name="network_disconnect">Сетевой сбой, загрузка была приостановлена</string>
     <string name="download_exist">Загрузка уже существует</string>
-    <string name="downloading_theme">Выполняется загрузка темы</string>
-    <string name="download_complete">Загрузка завершена</string>
+    <string name="downloading_theme">&#160;тема загружается</string>
+    <string name="download_complete">&#160; загружена</string>
     <string name="download_fail">Загрузить не удалось</string>
     <string name="load_more_toast">Сеть отключена, проверьте подключение к сети</string>
     <string name="load_more_empty">Данные отсутствуют</string>
@@ -155,11 +155,11 @@
     <string name="network_disable_update">Сеть недоступна</string>
     <string name="text_ranklist">ТОП</string>
     <string name="text_categorylist">Кат.</string>
-    <string name="text_topiclist">Темы</string>
+    <string name="text_topiclist">Обсуж.</string>
     <string name="category">Категория</string>
     <string name="best_recomand">Рекомендации</string>
     <string name="rank_hot_toplist_title">Топ-лист</string>
-    <string name="rank_hot_newlist_title">Список новинок</string>
+    <string name="rank_hot_newlist_title">Новинки</string>
     <string name="rank_list_title">Список ТОП</string>
     <string name="more_subject">Больше тем</string>
     <string name="permissions_info">Приложение \"Темы\" получит доступ к вашей сети и памяти, продолжить?</string>
@@ -185,8 +185,8 @@
     <string name="system_theme">Системная тема</string>
     <string name="shrink">↑</string>
     <string name="expand_all">↓</string>
-    <string name="updateinfo">обновить</string>
-    <string name="skip">пропуск</string>
+    <string name="updateinfo">Обновить</string>
+    <string name="skip">ждём</string>
     <string name="title_ring">Музыка</string>
     <string name="set_ring_fail_for_null">Ошибка установки рингтона</string>
     <string name="set_ringtone_success">Рингтон успешно установлен</string>

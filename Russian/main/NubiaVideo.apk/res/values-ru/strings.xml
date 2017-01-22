@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video">Видео</string>
+    <string name="more">Ещё</string>
+    <string name="list">Список</string>
+    <string name="grid">Сетка</string>
+    <string name="show_hide_video">Отобразить скрыть видео</string>
+    <string name="hide_video">Скрыть (Показать) видео</string>
+    <string name="hide">Скрыть</string>
+    <string name="ok">ОК</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="share">Отправить</string>
+    <string name="title">Имя</string>
+    <string name="time">Время</string>
+    <string name="path">Путь</string>
+    <string name="duration">Продолжительность</string>
+    <string name="file_size">Размер файла</string>
+    <string name="video_dolby">Dolby Digital Plus</string>
+    <string name="video_dts">DTS</string>
+    <string name="details">Информация</string>
+    <string name="player_send_not_available">Нет доступных приложений для отправки</string>
+    <string name="snapshot">Скриншот</string>
+    <string name="video_not_support_snapshot">Это видео не поддерживает функцию скриншота.</string>
+    <string name="video_notsupport_pip">Это видео не поддерживает функцию картинка в картинке.</string>
+    <string name="rename">Переименовать</string>
+    <string name="rename_success">Переименование завершено</string>
+    <string name="fileisexist">Файл существует.</string>
+    <string name="filenameisnull">Имя файла не может быть пустым, попробуйте еще раз</string>
+    <string name="exceed_filename_size_limitation">Достигнут максимальный размер имени файла. Получить первые 80 символов автоматически.</string>
+    <string name="filename_invalid">Не удалось переименовать, недопустимые символы</string>
+    <string name="no_content">Видео отсутствуют</string>
+    <string name="save_into">Сохранение видео в %1$s …</string>
+    <string name="trimming">Усилить цвет</string>
+    <string name="trim">Обрезка</string>
+    <string name="please_wait">Подожите</string>
+    <string name="invalid_trim">Не удается обрезать видео, неправильная настройка</string>
+    <string name="io_error">Ошибка ВВ</string>
+    <string name="trim_copy">_копия</string>
+    <string name="resolution">Разрешение</string>
+    <string name="video_snapshot_saving">Не удалось сделать скриншот, повторите позже...</string>
+    <string name="player_play_error">Нельзя воспроизвести видео.</string>
+    <string name="player_unknown_title">Неизвестное название</string>
+    <string name="player_replay">Воспроизвести на</string>
+    <string name="video_send_not_available">Нет доступных приложений для отправки</string>
+    <string name="video_cannot_get_details">Невозможно получить информацию</string>
+    <string name="player_press_again">Нажмите \"Назад\" для выхода</string>
+    <string name="player_screen_locked">Экран заблокирован</string>
+    <string name="video_snapshot_failed">Не удалось сделать скриншот</string>
+    <string name="video_snapshot_success">Выполнен скриншот видео</string>
+    <string name="folder_download">Загрузить</string>
+    <string name="decoder_mode">Режим декодирования</string>
+    <string name="decode_select">Декодер</string>
+    <string name="decode_mode_hw">Аппаратный декодер</string>
+    <string name="decode_mode_sw">Программный декодер</string>
+    <string name="close">Закрыть</string>
+    <string name="overwrite">Перезаписать</string>
+    <string name="save_as_new">Сохранить как новый файл</string>
+    <string name="select_audiotrack">Звуковая дорожка</string>
+    <string name="no_audio">Переключитесь на программный преобразователь</string>
+    <string name="spaceIsLow_tip">Недостаточно места</string>
+    <string name="encrypt">Личное</string>
+    <string name="select_all">Все</string>
+    <string name="unselect_all">Отменить</string>
+    <string name="sound_equipment_toast">При использовании динамика автоматически применяется звуковой эффект</string>
+    <string name="permission_request">Соглашение</string>
+    <string name="gallery_permission">"1. В процессе использования приложению требуется разрешение для доступа к сети, в том числе мобильных данных и Wi-Fi сетей.
+2. Используется доступ к вашей геолокации и местоположению.
+3. Используется доступ к вашим контактам, электронной почте.
+4. Используется личная информация, в том числе SMS и MMS.
+"</string>
+    <string name="video_dolby_atmos">Dolby ATMOS</string>
+</resources>

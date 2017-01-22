@@ -157,8 +157,8 @@
     <string name="editmode_indicator_title_btn_igetit">Все понятно!</string>
     <string name="app_loading_title">Загрузка</string>
     <string name="app_loading_message">Загрузка приложений, пожалуйста, подождите</string>
-    <string name="function_icon_lockscreen">Экран блокировки</string>
-    <string name="function_icon_cleanup">Ускорить</string>
+    <string name="function_icon_lockscreen">Блокировка</string>
+    <string name="function_icon_cleanup">Очистить</string>
     <string name="backup_layout_change">Схема модуля запуска изменилась, некоторые ярлыки в неправильном положении, мы поставим эти ярлыки в конце модуля запуска</string>
     <string name="backup_loading_title">Восстановление данных модуля запуска</string>
     <string name="backup_loading_message">Восстановление данных модуля запуска, пожалуйта, подождите</string>
@@ -168,7 +168,7 @@
     <string name="folder_life_funs">Развлечения</string>
     <string name="app_center">Центр приложений</string>
     <string name="freresh_btn">Обновление</string>
-    <string name="folder_tools">Инструменты</string>
+    <string name="folder_tools">Разное</string>
     <string name="system_tools">Системные инструменты</string>
     <string name="shortcut_duplicate_noformat">Комбинация клавиш уже существует.</string>
     <string name="waiting">Ожидание</string>
@@ -197,7 +197,7 @@
     <string name="dialog_message_network_secondhalf">МВ, предлагаем подключиться к WIFI для загрузки</string>
     <string name="smartshow_remove_app">Удалить этот значок смарт-шоу? Начальное приложение не будет удалено.</string>
     <string name="life_service_menu_order">Порядок</string>
-    <string name="deletedrop_notice_sum">Одновременно удалить данные приложения</string>
+    <string name="deletedrop_notice_sum">Так же удалятся данные приложения!</string>
     <string name="smartshow_remove_app_when_second_icon_exits">Удалить приложение? Это удалит значок смарт-шоу.</string>
     <string name="deletedrop_notice_btn_uninstall">Удалить</string>
     <string name="deletedrop_notice_btn_cancel">Отмена</string>

@@ -471,7 +471,7 @@
     <string name="keyguard_clean_message_format">Освобождено памяти: %1$s</string>
     <string name="install_dialog_message_broken_package">Приложение установлено, рекомендуется удалить установочный APK.</string>
     <string name="install_dialog_check_message">Больше не напоминать</string>
-    <string name="deep_clean_entry">\"МАКСИ\" удаление: %1$s %2$s</string>
+    <string name="deep_clean_entry">\"МАКСИ\" чистилка: %1$s %2$s</string>
     <string name="garbage_clean_garbage_type_word">Word</string>
     <string name="garbage_clean_garbage_type_pdf">PDF</string>
     <string name="garbage_clean_garbage_type_ppt">PPT</string>
@@ -521,10 +521,10 @@
     <string name="install_dialog_message">Установка завершена, удалить установочный APK для освобождения %2$s ?</string>
     <string name="installed_apk_delete__notification">Автоматическое удаление APK</string>
     <string name="installed_apk_delete__notification_subname">Срабатывает после установки APK</string>
-    <string name="install_dialog_checkbox_message">авто удаление APK после проверки</string>
+    <string name="install_dialog_checkbox_message">всегда удалять APK после установки</string>
     <string name="no_garbage_need_clean">Нет файлов для удаления</string>
     <string name="garbage_no_deep_clean_garbage">Нет файлов для \"МАКСИ\" чистилки</string>
-    <string name="deep_clean_continue">Продолжить \"МАКСИ\" очистку</string>
+    <string name="deep_clean_continue">Пройти в \"МАКСИ\" очистку&#160;</string>
     <string name="myfile_uninstall">файлы удалены!</string>
     <string name="file_noexits_or_clear">файл отсутствует или удален!</string>
     <string name="setting_uninstall">настройки удалены!</string>

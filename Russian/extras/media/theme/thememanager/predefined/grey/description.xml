@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NUBIAUI-Theme>
+
+	<title>Flowing nazes</title>
+	
+	<title_cn>Серая</title_cn>
+	
+	<author>Команда Nubia</author>
+
+	<versionName>1.0.0</versionName>
+
+	<description>Нежный серый. Официальная тема смартфонов Nubia, надеемся, вам понравится.</description>
+
+	<updateInfo>null</updateInfo>
+	
+	<category>Простая</category>
+	
+	<tag>Качественная</tag>
+	
+	<price>0</price>
+	
+	<screen>FHD</screen>
+
+	<themeGeneration>1</themeGeneration>
+	
+	<source>Nubia Technology Co., Ltd.</source>
+
+	<author_id>wang.qian6@zte.com.cn</author_id>
+</NUBIAUI-Theme>

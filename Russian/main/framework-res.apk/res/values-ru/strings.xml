@@ -1081,11 +1081,11 @@
     <string name="smv_application">Приложение \"%1$s\" (процесс: %2$s) нарушило собственную политику StrictMode.</string>
     <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode.</string>
     <string name="android_upgrading_title">Обновление Android...</string>
-    <string name="android_start_title">Запуск Android…</string>
+    <string name="android_start_title">Запуск Android...</string>
     <string name="android_upgrading_fstrim">Оптимизация памяти</string>
-    <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
-    <string name="android_upgrading_starting_apps">Запуск приложений.</string>
-    <string name="android_upgrading_complete">Окончание загрузки...</string>
+    <string name="android_upgrading_apk">Оптимизация приложений, %1$d из %2$d.</string>
+    <string name="android_upgrading_starting_apps">Запуск приложений...</string>
+    <string name="android_upgrading_complete">Завершение оптимизации...</string>
     <string name="heavy_weight_notification">Приложение %1$s запущено</string>
     <string name="heavy_weight_notification_detail">Нажмите, чтобы переключиться на приложение</string>
     <string name="heavy_weight_switcher_title">Переключение приложений</string>

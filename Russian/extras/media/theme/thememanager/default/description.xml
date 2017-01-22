@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NUBIAUI-Theme>
+
+	<title>nubia theme</title>
+
+	<title_cn>Официальная тема Nubia</title_cn>
+
+	<author>Команда Nubia</author>
+
+	<versionName>1.0.0</versionName>
+
+	<themeType>default</themeType>
+
+	<description>Официальная тема по умолчанию смартфонов Nubia, надеемся, вам понравится.</description>
+
+	<updateInfo>null</updateInfo>
+	
+	<category>Простая</category>
+	
+	<tag>Качественная</tag>
+	
+	<price>0</price>
+	
+	<screen>FHD</screen>
+
+	<themeGeneration>1</themeGeneration>
+
+	<source>Nubia Technology Co., Ltd.</source>
+
+	<author_id>wang.qian6@zte.com.cn</author_id>
+	
+</NUBIAUI-Theme>

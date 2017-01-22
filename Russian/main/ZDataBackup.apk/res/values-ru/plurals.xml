@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d b</item>
+        <item quantity="one">%d b</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kb</item>
+        <item quantity="one">%d kb</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d mb</item>
+        <item quantity="one">%d mb</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d gb</item>
+        <item quantity="one">%d gb</item>
+    </plurals>
+    <plurals name="message_view_attachment_tigabytes">
+        <item quantity="other">%d tb</item>
+        <item quantity="one">%d tb</item>
+    </plurals>
+</resources>
