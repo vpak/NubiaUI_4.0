@@ -29,10 +29,10 @@
         <item>1 неделя</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Региональные настройки по умолчанию</item>
-        <item>суббота</item>
-        <item>воскресенье</item>
-        <item>понедельник</item>
+        <item>Региональные настройки</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Маршалловы о-ва</item>
@@ -131,11 +131,11 @@
         <item>Для всех</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>перв.</item>
-        <item>втор.</item>
-        <item>трет.</item>
-        <item>четверт.</item>
-        <item>последн.</item>
+        <item>1-й</item>
+        <item>2-й</item>
+        <item>3-й</item>
+        <item>4-й</item>
+        <item>Посл.</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Не ответили</item>
@@ -157,7 +157,7 @@
         <item>Все мероприятия в серии</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Today</item>
+        <item>Сегодня</item>
         <item>День</item>
         <item>Неделя</item>
         <item>Месяц</item>

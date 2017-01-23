@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_selection">
         <item quantity="other">Удалить все выбранные элементы?</item>
-        <item quantity="one">Удалить элемент?</item>
+        <item quantity="one">Удалить видео?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>

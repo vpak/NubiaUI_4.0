@@ -349,11 +349,11 @@
     <string name="crypt_keeper_failed_title">Сбой шифрования</string>
     <string name="crypt_keeper_failed_summary">"Данные на вашем телефоне больше недоступны из-за того, что шифрование было прервано. 
 
-Чтобы дальше использовать устройство, нужно сбросить настройки. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии."</string>
+Чтобы дальше использовать устройство, нужно сбросить настройки. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы бэкапы."</string>
     <string name="crypt_keeper_data_corrupt_title">Не удалось расшифровать</string>
     <string name="crypt_keeper_data_corrupt_summary">"Вы ввели правильный пароль, но данные на телефоне повреждены.
 
-Чтобы продолжить работу, необходимо выполнить возврат к заводским настройкам. После этого вы сможете восстановить данные, резервная копия которых хранится в вашем аккаунте Google."</string>
+Чтобы продолжить работу, необходимо выполнить возврат к заводским настройкам. После этого вы сможете восстановить данные, бэкап которых хранится в вашем аккаунте Google."</string>
     <string name="crypt_keeper_switch_input_method">Сменить способ ввода</string>
     <string name="lock_settings_picker_title">Блокировка экрана</string>
     <string name="backup_lock_settings_picker_title">Доп. способ блокировки</string>
@@ -1844,24 +1844,24 @@
     <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
     <string name="privacy_settings">Восстановление и сброс</string>
     <string name="privacy_settings_title">Восстановление и сброс</string>
-    <string name="backup_section_title">Резервное копирование и восстановление</string>
+    <string name="backup_section_title">Бэкап и восстановление</string>
     <string name="personal_data_section_title">Возврат к заводским настройкам</string>
-    <string name="backup_data_title">Резервирование данных</string>
-    <string name="backup_data_summary">Сохранять резервные копии данных приложений, паролей точек доступа Wi-Fi и настроек на серверах Google</string>
-    <string name="backup_configure_account_title">Аккаунт для резервирования</string>
-    <string name="backup_configure_account_default_summary">Не найдены аккаунты с резервными копиями данных</string>
+    <string name="backup_data_title">Бэкап данных</string>
+    <string name="backup_data_summary">Сохранять бэкап данных приложений, паролей точек доступа Wi-Fi и настроек на серверах Google</string>
+    <string name="backup_configure_account_title">Аккаунт для бэкапа</string>
+    <string name="backup_configure_account_default_summary">Не найдены аккаунты с бэкапом данных</string>
     <string name="include_app_data_title">Учитывать данные приложений</string>
     <string name="auto_restore_title">Автовосстановление</string>
-    <string name="auto_restore_summary">При переустановке приложения восстановить резервную копию настроек и данных</string>
-    <string name="backup_inactive_title">Служба резервного копирования неактивна</string>
+    <string name="auto_restore_summary">При переустановке приложения восстановить бэкап настроек и данных</string>
+    <string name="backup_inactive_title">Служба бэкапа неактивна</string>
     <string name="backup_inactive_summary">В соответствии с политикой устройства.</string>
-    <string name="local_backup_password_title">Пароль для резервного копирования</string>
-    <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
-    <string name="local_backup_password_summary_change">Изменить или удалить пароль для резервного копирования</string>
+    <string name="local_backup_password_title">Пароль для бэкапа</string>
+    <string name="local_backup_password_summary_none">Полные бэкапы в настоящее время не защищены</string>
+    <string name="local_backup_password_summary_change">Изменить или удалить пароль для бэкапа</string>
     <string name="local_backup_password_toast_success">Новый резервный пароль установлен</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Пароли не совпадают</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось установить резервный пароль</string>
-    <string name="backup_erase_dialog_message">Прекратить резервное копирование паролей точек доступа Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
+    <string name="backup_erase_dialog_message">Прекратить бэкап паролей точек доступа Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
     <string name="device_admin_settings_title">Настройки администрирования устройства</string>
     <string name="active_device_admin_msg">Администратор устройства</string>
     <string name="remove_device_admin">Отключить</string>
@@ -1936,8 +1936,8 @@
     <string name="sync_error">Ошибка синхронизации</string>
     <string name="last_synced">Последняя синхронизация: %1$s</string>
     <string name="sync_in_progress">Синхронизация…</string>
-    <string name="settings_backup">Создать резервную копию настроек</string>
-    <string name="settings_backup_summary">Резервная копия настроек.</string>
+    <string name="settings_backup">Создать бэкап настроек</string>
+    <string name="settings_backup_summary">Бэкап настроек.</string>
     <string name="sync_menu_sync_now">Синхронизировать</string>
     <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
     <string name="sync_one_time_sync">"Нажмите, чтобы начать синхронизацию 
@@ -2973,7 +2973,7 @@
     <string name="third_party_account">Аккаунты третьих лиц</string>
     <string name="third_party_account_category">Другое</string>
     <string name="application_not_exsit">Приложение не существует</string>
-    <string name="accounts_welcome">С помощью аккаунта Nubia вы можете сделать резервную копию и восстановить ваши персональные данные, такие как Контакты, Сообщения, Расписание, Настройки и др.</string>
+    <string name="accounts_welcome">С помощью аккаунта Nubia вы можете сделать бэкап и восстановить ваши персональные данные, такие как Контакты, Сообщения, Расписание, Настройки и др.</string>
     <string name="vip_account_tag">VIP</string>
     <string name="vip_service">VIP услуга</string>
     <string name="account_details_cloud_space_available">Доступно</string>

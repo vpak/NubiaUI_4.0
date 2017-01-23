@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="manage_common_cloud_sync">Синхронизация облачного менеджера и настройки резервного копирования</string>
-    <string name="manage_common_backup">Резервная копия</string>
+    <string name="manage_common_cloud_sync">Синхронизация облачного менеджера и настройки бэкапа</string>
+    <string name="manage_common_backup">Бэкап</string>
     <string name="manage_common_other">Другое</string>
     <string name="nubia_common_label">nubia</string>
     <string name="nubia_app_name">Общие Ресурсы nubia</string>
@@ -105,7 +105,7 @@
     <string name="cloud_expand_space">Увеличить объем</string>
     <string name="used_space">Занято</string>
     <string name="total_space">Всего</string>
-    <string name="cloud_sync_backup_text">Синхронизация облака и резервного копирования настроек</string>
+    <string name="cloud_sync_backup_text">Синхронизация облака и бэкапа настроек</string>
     <string name="no_account_found">Приложение учетной записи nubia не существует</string>
     <string name="default_space_text">0,00GB</string>
     <string name="expand_progress_text">Загрузка. Пожалуйста, подождите</string>

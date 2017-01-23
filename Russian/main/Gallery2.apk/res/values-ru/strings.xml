@@ -345,11 +345,11 @@
     <string name="downloadstarted">Загрузка проводится в фоновом режиме</string>
     <string name="downloadfinished">Загрузка завершена</string>
     <string name="title_cloud">Настройка облачного хранения</string>
-    <string name="cloud_ablum_backup">Резервная копия в облако</string>
+    <string name="cloud_ablum_backup">Бэкап в облако</string>
     <string name="cloud_ablum_backup_all">Все скопировано в облако</string>
-    <string name="pending_cloud_ablum_backup_no_data_connection">Ожидание интернет соединения для создания резервной копии данных %1$d</string>
-    <string name="pending_cloud_ablum_backup_no_wlan_connection">Ожидание Wi-Fi соединения для создания резервной копии данных %1$d</string>
-    <string name="pending_cloud_ablum_backup_battery_level">"В ожидании %1$d задачи резервного копирования облачного альбома
+    <string name="pending_cloud_ablum_backup_no_data_connection">Ожидание интернет соединения для создания бэкапа данных %1$d</string>
+    <string name="pending_cloud_ablum_backup_no_wlan_connection">Ожидание Wi-Fi соединения для создания бэкапа данных %1$d</string>
+    <string name="pending_cloud_ablum_backup_battery_level">"В ожидании %1$d задачи бэкапа облачного альбома
 , так как уровень заряда батареи составляет менее 30%%"</string>
     <string name="tasks_failed_hint">"Не удалось выполнить %1$d задач из-за ошибки соединения
 Пожалуйста, включите/выключите устройство, чтобы загрузить снова"</string>

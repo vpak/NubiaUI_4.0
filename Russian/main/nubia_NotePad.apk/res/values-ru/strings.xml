@@ -76,8 +76,8 @@
     <string name="notepad_help_title_2">Совет: Удерживайте элемент списка для его закрепления, открепления или удаления.</string>
     <string name="notepad_help_title_3">Совет: Нажмите \"Ещё\" для добавления цветного маркера.</string>
     <string name="notepad_help_title_4">Совет: Используйте цвета для выделения заметок.</string>
-    <string name="notepad_list_empty">Нет записей</string>
-    <string name="notepad_new">New Note</string>
+    <string name="notepad_list_empty">Записи отсутствуют</string>
+    <string name="notepad_new">Новая запись</string>
     <string name="notepad_classify">Клас.</string>
     <string name="notepad_image_height_tag">Высота</string>
     <string name="notepad_imageloader_imagepath_tag">Путь к изображению</string>
@@ -112,7 +112,7 @@
     <string name="notepad_insert_picture_progress_dialog_message">Загрузка файла изображения...</string>
     <string name="notepad_share_fail">Создать общий доступ к файлу не удалось</string>
     <string name="notepad_choose_note">Выбрать запись</string>
-    <string name="notepad_choose_multi_note">Выбрано:</string>
+    <string name="notepad_choose_multi_note">Выбрано:&#160;</string>
     <string name="notepad_record_init_fail_alert">Диктофон временно недоступен, поскольку он используется другим приложением.</string>
     <string name="notepad_alert_dialog_look">Прочитанные</string>
     <string name="notepad_alert_dialog_ignore">Пропустить</string>
@@ -133,7 +133,7 @@
     <string name="notepad_preview_menu_copy_text_toast">Текст сообщения скопирован</string>
     <string name="notepad_preview_menu_new_event">Новое событие (%1$s)</string>
     <string name="notepad_preview_menu_display_in_calendar">Отобразить в календаре</string>
-    <string name="notepad_image_selected_picture_count">Выбрано:</string>
+    <string name="notepad_image_selected_picture_count">Выбрано:&#160;</string>
     <string name="notepad_image_max_selected_picture_count">Не более десяти изображений</string>
     <string name="notepad_image_selected_no_picture">Необходимо выбрать по крайней мере одно изображение</string>
     <string name="notepad_image_no_sdcard">Нет SD-карты</string>
@@ -171,12 +171,12 @@
     <string name="calendar_time_minute">мин.</string>
     <string name="date_format_am">АМ</string>
     <string name="date_format_pm">РМ</string>
-    <string name="notepad_data_backup_title">Выполняется резервное копирование данных блокнота</string>
+    <string name="notepad_data_backup_title">Выполняется бэкап данных блокнота</string>
     <string name="notepad_data_restore_title">Восстановление данных блокнота</string>
     <string name="notepad_data_backup_name">Записи</string>
     <string name="notepad_data_backup_error1">Выполнить чтение базы данных блокнота не удалось</string>
-    <string name="notepad_data_backup_error2">Не удалось создать файл резервной копии блокнота</string>
-    <string name="notepad_data_restore_error1">Выполнить чтение файла резервной копии блокнота не удалось</string>
+    <string name="notepad_data_backup_error2">Не удалось создать файл бэкапа блокнота</string>
+    <string name="notepad_data_restore_error1">Выполнить чтение файла бэкапа блокнота не удалось</string>
     <string name="notepad_data_restore_error2">Выполнить чтение базы данных блокнота не удалось</string>
     <string name="notepad_editor_record_icon">|S@*t}</string>
     <string name="select_all">Все</string>

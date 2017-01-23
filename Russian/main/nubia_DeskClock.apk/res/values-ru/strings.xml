@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="nubia_common_versionName">Вер. 2.0.3</string>
+    <string name="nubia_common_versionName">V2.0.3</string>
     <string name="nubia_common_label">nubia</string>
     <string name="nubia_app_name">Общие Ресурсы nubia</string>
     <string name="nubia_capital_on">ВКЛ</string>
@@ -59,9 +59,9 @@
     <string name="nubia_next_button_label">Далее</string>
     <string name="nubia_skip_button_label">Пропустить</string>
     <string name="nubia_time_second">Сек.</string>
-    <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
-    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
-    <string name="app_label">Часы</string>
+    <string name="abbrev_wday_month_day_no_year">d MMMM, EEE</string>
+    <string name="full_wday_month_day_no_year">d MMMM, EEEE</string>
+    <string name="app_label">Будильник</string>
     <string name="alarm_list_title">Будильник</string>
     <string name="add_alarm">Создать</string>
     <string name="add_alarm_button">Создать</string>
@@ -248,7 +248,7 @@
     <string name="saturday">Сб.</string>
     <string name="sunday">Вс.</string>
     <string name="no_alarm">Нет будильника</string>
-    <string name="sleepclock_date_format">EEE,MMMM d</string>
+    <string name="sleepclock_date_format">d MMMM, EEEE</string>
     <string name="city_is_selected">Город выбран</string>
     <string name="menu_search">Поиск</string>
     <string name="new_cities_title" />
@@ -268,13 +268,13 @@
     <string name="tts_summary">Описание функции TTS</string>
     <string name="no_snooze">Не откладывать</string>
     <string name="no_worldtime">Нет мирового времени</string>
-    <string name="worldtime_selected">Выбрано %d</string>
-    <string name="select_all">Выбрать все</string>
+    <string name="worldtime_selected">Выбрано: %d</string>
+    <string name="select_all">Все</string>
     <string name="unselect_all">Отмена</string>
-    <string name="delete_title">Удалить</string>
+    <string name="delete_title">ОК</string>
     <string name="delete_worldtime">Удалить выбранные города?</string>
-    <string name="capital_on">вкл</string>
-    <string name="capital_off">выкл</string>
+    <string name="capital_on">Вкл.</string>
+    <string name="capital_off">Выкл.</string>
     <string name="digital_hour_number_set">%d</string>
     <string name="alarm_clock_settings">Настройки</string>
     <string name="poweroff_alarm">Звонить, если телефон выключен</string>
@@ -307,13 +307,13 @@
     <string name="tomorrow">Завтра</string>
     <string name="world_time_late_time" />
     <string name="world_time_eary_time" />
-    <string name="only">"Только "</string>
-    <string name="alarms_close_once">" единожды отключить будильник"</string>
-    <string name="alarms_close_once_today">"(сегодня) единожды отключить будильник "</string>
-    <string name="alarms_close_once_tomorrow">"(завтра) единожды отключить будильник "</string>
-    <string name="alarms_close_once_date_format">MMM d</string>
+    <string name="only">"Отключить будильник только "</string>
+    <string name="alarms_close_once">"один раз?"</string>
+    <string name="alarms_close_once_today">"&#160;?"</string>
+    <string name="alarms_close_once_tomorrow">"&#160;?"</string>
+    <string name="alarms_close_once_date_format">d MMMM</string>
     <string name="alarms_close">Отключить будильник</string>
-    <string name="alarms_close_once_lable">закрыть один раз</string>
+    <string name="alarms_close_once_lable">на 1 раз</string>
     <string name="alarms_create_fails_same_lable">Уже существует</string>
     <string name="newcity_list_empty">пусто</string>
 </resources>

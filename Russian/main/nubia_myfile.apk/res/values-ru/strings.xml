@@ -23,9 +23,9 @@
     <string name="cancelcollect_completed">Удалено из \"Любимых\"</string>
     <string name="category_system">Система:</string>
     <string name="loading_more">Загружаю еще...</string>
-    <string name="a_moment_ago">Мгновение назад</string>
-    <string name="hours_ago">&#160;часов назад</string>
-    <string name="days_ago">&#160;дней назад</string>
+    <string name="a_moment_ago">недавно,</string>
+    <string name="hours_ago">&#160;часов назад,</string>
+    <string name="days_ago">&#160;дней назад,</string>
     <string name="confirm_know">ОК</string>
     <string name="enable_sd_card">Мой файл недоступен, так как внешний накопитель не доступен</string>
     <string name="sd_not_available">SD-карта не доступна</string>
@@ -58,8 +58,8 @@
     <string name="operation_clear">Очистить</string>
     <string name="operation_rename">Переименовать</string>
     <string name="phone_storage_capacity">Память телефона</string>
-    <string name="phone_storage_total_lable">Всего: %s</string>
-    <string name="phone_storage_free_lable">Доступно: %s</string>
+    <string name="phone_storage_total_lable">%s всего</string>
+    <string name="phone_storage_free_lable">%s доступно</string>
     <string name="otg_unmount_text">Удалить</string>
     <string name="storage_seperator">|</string>
     <string name="search_hint">Поиск файлов</string>
@@ -97,7 +97,7 @@
     <string name="not_enough_otg_space">OTG - накопитель переполнен</string>
     <string name="not_enough_storage">Не достаточно памяти</string>
     <string name="sd_not_plug_in">Не подключена</string>
-    <string name="usb_not_plug_in">Не подключен</string>
+    <string name="usb_not_plug_in">Не подключено</string>
     <string name="otg_tip">Использование OTG-кабеля для передачи данных,чтобы подключить телефон к внешней памяти (например, U-диск), что позволяет мобильным телефонам считывать файлы.</string>
     <string name="search_tip">Искать файл</string>
     <string name="menu_more">Ещё</string>

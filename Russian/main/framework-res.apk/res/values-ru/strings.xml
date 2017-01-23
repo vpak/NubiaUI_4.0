@@ -29,6 +29,7 @@
     <string name="time_of_day" formatted="false">%-k:%M:%S</string>
     <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
     <string name="date_time">%2$s, %1$s</string>
+    <string name="icu_abbrev_wday_month_day_no_year">dMMMMeee</string>
     <string name="byteShort">Б</string>
     <string name="kilobyteShort">КБ</string>
     <string name="megabyteShort">МБ</string>
@@ -370,10 +371,10 @@
     <string name="permdesc_getAppOpsStats">Приложение сможет получать собранную статистику операций в приложениях. Это разрешение не используется обычными программами.</string>
     <string name="permlab_updateAppOpsStats">Изменение рабочего журнала приложений</string>
     <string name="permdesc_updateAppOpsStats">Приложение сможет изменять собранную статистику операций в приложениях. Это разрешение не используется обычными приложениями.</string>
-    <string name="permlab_backup">Управление резервным копированием и восстановлением системы</string>
-    <string name="permdesc_backup">Приложение сможет управлять механизмами резервного копирования и восстановления системы. Это разрешение не используется обычными приложениями.</string>
-    <string name="permlab_confirm_full_backup">Подтверждаение полного резервного копирования и восстановления</string>
-    <string name="permdesc_confirm_full_backup">Приложение сможет отображать окно подтверждения полного резервного копирования. Это разрешение не предназначено для всех приложений.</string>
+    <string name="permlab_backup">Управление бэкапами и восстановлением системы</string>
+    <string name="permdesc_backup">Приложение сможет управлять механизмами бэкапа и восстановления системы. Это разрешение не используется обычными приложениями.</string>
+    <string name="permlab_confirm_full_backup">Подтверждаение полного бэкапа и восстановления</string>
+    <string name="permdesc_confirm_full_backup">Приложение сможет отображать окно подтверждения полного бэкапа. Это разрешение не предназначено для всех приложений.</string>
     <string name="permlab_internalSystemWindow">"Неавторизованное открытие  окон"</string>
     <string name="permdesc_internalSystemWindow">Приложение сможет создавать окна для интерфейса внутренней системы. Это разрешение не используется обычными приложениями.</string>
     <string name="permlab_systemAlertWindow">Показ элементов интерфейса поверх других окон</string>

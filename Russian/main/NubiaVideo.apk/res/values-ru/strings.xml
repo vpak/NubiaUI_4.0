@@ -24,7 +24,7 @@
     <string name="snapshot">Скриншот</string>
     <string name="video_not_support_snapshot">Это видео не поддерживает функцию скриншота.</string>
     <string name="video_notsupport_pip">Это видео не поддерживает функцию картинка в картинке.</string>
-    <string name="rename">Переименовать</string>
+    <string name="rename">Имя файла</string>
     <string name="rename_success">Переименование завершено</string>
     <string name="fileisexist">Файл существует.</string>
     <string name="filenameisnull">Имя файла не может быть пустым, попробуйте еще раз</string>

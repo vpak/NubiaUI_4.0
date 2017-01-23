@@ -243,7 +243,7 @@ Username is %1$1s
     <string name="detecting_sim">Обнаружение SIM-карты...</string>
     <string name="other_register_mode">Другой режим регистрации</string>
     <string name="no_sim_card">SD-карта не обнаружена</string>
-    <string name="no_sim_card_message">Рекомендается вставить SIM-карту, чтобы зарегистрировать учетную запись nubia (она может быть использована для резервного копирования и восстановления ваших личных данных в телефоне).</string>
+    <string name="no_sim_card_message">Рекомендается вставить SIM-карту, чтобы зарегистрировать учетную запись nubia (она может быть использована для бэкапа и восстановления ваших личных данных в телефоне).</string>
     <string name="detect_sim_again">Повторное обнаружение SIM</string>
     <string name="skip">Далее</string>
     <string name="input_password_empty">Пароль пуст</string>
