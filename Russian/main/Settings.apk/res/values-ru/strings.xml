@@ -3347,8 +3347,8 @@
     <string name="master_clear_obligatory_item">Обязательно</string>
     <string name="su_black_app">Настройки черного списка</string>
     <string name="su_black_app_summary">Выберите защищенные приложения</string>
-    <string name="phone_one_ringtone">Рингтон SIM 1</string>
-    <string name="phone_two_ringtone">Рингтон SIM 2</string>
+    <string name="phone_one_ringtone">Рингтон SIM-1</string>
+    <string name="phone_two_ringtone">Рингтон SIM-2</string>
     <string name="wifi_check_addnetwork_title">Внимание!</string>
     <string name="wifi_check_addnetwork_message">Не может найти близлежащую сеть %1$s</string>
     <string name="wifi_check_addnetwork_working">Добавление сети</string>

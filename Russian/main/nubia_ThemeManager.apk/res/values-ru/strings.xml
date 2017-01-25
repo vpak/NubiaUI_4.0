@@ -183,8 +183,8 @@
     <string name="no_data">Нет данных</string>
     <string name="local">Локальные</string>
     <string name="system_theme">Системная тема</string>
-    <string name="shrink">↑</string>
-    <string name="expand_all">↓</string>
+    <string name="shrink">&#160;</string>
+    <string name="expand_all">&#160;</string>
     <string name="updateinfo">Обновить</string>
     <string name="skip">ждём</string>
     <string name="title_ring">Музыка</string>
