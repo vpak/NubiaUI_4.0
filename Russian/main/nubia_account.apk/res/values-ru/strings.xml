@@ -14,16 +14,16 @@
 Иметь доступ ко всем сервисам через одну уч. запись"</string>
     <string name="account_login_welcome_txt">Регистрация уч. записи nubia</string>
     <string name="account_login_welcome_txt2">Способы регистрации:</string>
-    <string name="section_login_by_email_title">Email</string>
+    <string name="section_login_by_email_title">E-mail</string>
     <string name="section_login_by_mobile_title">Мобильный</string>
     <string name="section_login_by_thirdrdparty_title">Через китайские соц. сети</string>
     <string name="section_login_by_wechat"><a href="#">Вход посредством WeChat</a></string>
-    <string name="section_login_by_qq"><a href="#">Login by QQ</a></string>
-    <string name="section_login_by_weibo"><a href="#">Login by Weibo</a></string>
+    <string name="section_login_by_qq"><a href="#">Вход посредством QQ</a></string>
+    <string name="section_login_by_weibo"><a href="#">Вход посредством Weibo</a></string>
     <string name="section_register_authenticating">Аутентификация…</string>
     <string name="section_recovery_sending_email">Отправка…</string>
     <string name="section_register_registerfail">Ошибка регистрации</string>
-    <string name="section_register_by_email_title">Email</string>
+    <string name="section_register_by_email_title">E-mail</string>
     <string name="section_register_by_mobile_title">Мобильный</string>
     <string name="section_register_by_email_username">Логин:</string>
     <string name="section_register_by_email_email">E-mail:</string>

@@ -449,6 +449,16 @@
     <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях электронной почты.</string>
     <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
     <string name="permission_access_provider_desc">Приложение получит доступ к базе данных электронной почты, которая содержит полученные и отправленные сообщения, имена пользователей и пароли.</string>
+    <string name="donwload_attachment_before_view">Загрузить в локальную папку перед просмотром</string>
+    <string name="can_not_add_attachment_and_file_nonentity">Невозможно добавить файл, так как он не существует</string>
+    <string name="mailbox_name_server_inbox">Входящие</string>
+    <string name="mailbox_name_server_outbox">Исходящие</string>
+    <string name="mailbox_name_server_drafts">Черновики</string>
+    <string name="mailbox_name_server_trash">Спам</string>
+    <string name="mailbox_name_server_sent">Отправленные</string>
+    <string name="mailbox_name_server_junk">Корзина</string>
+    <string name="mailbox_name_server_starred">Избранные</string>
+    <string name="mailbox_name_server_all_unread">Непрочитанные</string>
     <string name="create_action">Создать</string>
     <string name="quick_responses_empty_view">Нет шаблонов</string>
     <string name="account_settings_action">Настройки аккаунта</string>

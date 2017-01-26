@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Òåñò óñòğîéñòâà</string>
-    <string name="quicktest_begin">Áûñòğûé òåñò</string>
+    <string name="app_name">Ğ¢ĞµÑÑ‚ ÑƒÑÑ‚Ñ€Ğ¾Ğ¹ÑÑ‚Ğ²Ğ°</string>
+    <string name="quicktest_begin">Ğ‘Ñ‹ÑÑ‚Ñ€Ñ‹Ğ¹ Ñ‚ĞµÑÑ‚</string>
     <string name="quicktest_report">FactoryTest report</string>
     <string name="quicktest_all_pass">Factory test passed</string>
     <string name="quicktest_some_fail">Some items failed</string>
     <string name="quicktest_end">Quick test finished</string>
-    <string name="quicktest_success">Çàâåğøåí</string>
-    <string name="quicktest_fail">Îøèáêà</string>
-    <string name="quicktest_btn_success">Çàâåğøåí</string>
+    <string name="quicktest_success">Ğ—Ğ°Ğ²ĞµÑ€ÑˆĞµĞ½</string>
+    <string name="quicktest_fail">ĞÑˆĞ¸Ğ±ĞºĞ°</string>
+    <string name="quicktest_btn_success">Ğ—Ğ°Ğ²ĞµÑ€ÑˆĞµĞ½</string>
     <string name="quicktest_btn_failed">Failed</string>
     <string name="quicktest_btn_retest">Retest</string>
-    <string name="quicktest_btn_exit">Âûõîä</string>
+    <string name="quicktest_btn_exit">Ğ’Ñ‹Ñ…Ğ¾Ğ´</string>
     <string name="quicktest_btn_finish">Finish</string>
     <string name="quicktest_lcd">LCD Keypad LED test</string>
     <string name="quicktest_receiver">Receiver test</string>
@@ -171,7 +171,7 @@ Compass Z: %3$s"</string>
     <string name="battery_info_health_unspecified_failure">Unknown Error</string>
     <string name="battery_info_health_cold">Low temperature</string>
     <string name="battery_info_health_unknown">Unknown</string>
-    <string name="battery_info_temperature_units">Â° C</string>
+    <string name="battery_info_temperature_units">Ğ’Â° C</string>
     <string name="battery_info_units">%</string>
     <string name="no_current_node">Read file: %1$s failed!</string>
     <string name="quicktest_battery_present_label">Baterry Present:</string>
@@ -251,7 +251,7 @@ Please run *#777# and *#776# in order to perform calibration!"</string>
     <string name="quicktest_audio_version">Audio parameter version:</string>
     <string name="quicktest_lightsensor">Light sensor test</string>
     <string name="quicktest_lightsensor_test_title">Light Sensor Test</string>
-    <string name="quicktest_lightsensor_need_rgb_config">Please perform *#778# RGB configurationï¼</string>
+    <string name="quicktest_lightsensor_need_rgb_config">Please perform *#778# RGB configurationĞ¿Ñ˜Ğƒ</string>
     <string name="quicktest_lightsensor_confirm_rgb_color">Please confirm the phone front panel color is:</string>
     <string name="quicktest_lightsensor_confirm_rgb_color_golden">golden</string>
     <string name="quicktest_lightsensor_confirm_rgb_color_white">white</string>
@@ -271,7 +271,7 @@ The green Level indicates that the light has reached the level."</string>
     <string name="quicktest_nfc">NFC test</string>
     <string name="quicktest_nfc_check">Check firmware</string>
     <string name="quicktest_nfc_done">Done</string>
-    <string name="quicktest_nfc_on">Current stateï¼šon</string>
+    <string name="quicktest_nfc_on">Current stateĞ¿Ñ˜Ñ™on</string>
     <string name="quicktest_nfc_off">Current state: off</string>
     <string name="quicktest_nfc_enable">Enable</string>
     <string name="quicktest_nfc_enable_fail">Failed to enable, try again or check your firmware.</string>
@@ -284,11 +284,11 @@ The green Level indicates that the light has reached the level."</string>
     <string name="import_vcard">Import ^1</string>
     <string name="vcard_title">Contact info for ^1</string>
     <string name="nfc_tag_approach_hint">Please make the tag/card approach the device!</string>
-    <string name="nfc_tag_test_success">Tag/Card recognizedï¼</string>
+    <string name="nfc_tag_test_success">Tag/Card recognizedĞ¿Ñ˜Ğƒ</string>
     <string name="quicktest_pressuresensor">Air pressure sensor test</string>
     <string name="quicktest_pressuresensor_value">Pressure: %1$shPa</string>
     <string name="quicktest_tempsensor">Temperature sensor test</string>
-    <string name="quicktest_tempsensor_value">Temperature: %1$sâ„ƒ</string>
+    <string name="quicktest_tempsensor_value">Temperature: %1$sĞ²â€Ñ“</string>
     <string name="quicktest_humiditysensor">Humidity sensor test</string>
     <string name="quicktest_humiditysensor_value">Relative Humidity: %1$s</string>
     <string name="quicktest_otg">OTG test</string>
@@ -375,12 +375,12 @@ Gyroscope Z: %3$s"</string>
     <string name="tempSensorValue">Temperature:</string>
     <string name="humiditySensorValue">Humidity:</string>
     <string name="three_sensor_test_humiditysensor_value">%1$s</string>
-    <string name="three_sensor_test_tempsensor_value">%1$sâ„ƒ</string>
+    <string name="three_sensor_test_tempsensor_value">%1$sĞ²â€Ñ“</string>
     <string name="three_sensor_test_pressuresensor_value">%1$shPa</string>
     <string name="quicktest_nfc_additional">NFC Additional Test</string>
-    <string name="quicktest_nfc_additional_test_success">SE CPLC R/W Successï¼</string>
-    <string name="quicktest_nfc_additional_test_fail">SE CPLC R/W Failï¼</string>
-    <string name="quicktest_nfc_additional_start_fail">Failed to start NFC Additional Testï¼</string>
+    <string name="quicktest_nfc_additional_test_success">SE CPLC R/W SuccessĞ¿Ñ˜Ğƒ</string>
+    <string name="quicktest_nfc_additional_test_fail">SE CPLC R/W FailĞ¿Ñ˜Ğƒ</string>
+    <string name="quicktest_nfc_additional_start_fail">Failed to start NFC Additional TestĞ¿Ñ˜Ğƒ</string>
     <string name="quicktest_gsensor_gravity_label">"X: %1$s
 Y: %2$s
 Z: %3$s"</string>

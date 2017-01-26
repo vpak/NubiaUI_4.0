@@ -27,7 +27,7 @@
     <string name="wfd_option_uibc">UIBC</string>
     <string name="wfd_option_uibc_summary">Разрешить пользовательский ввод на приемнике, чтобы ответить источнику</string>
     <string name="wifi_display_manual_title">Руководство пользователя</string>
-    <string name="wifi_display_settings_title">Передать изображение экрана</string>
+    <string name="wifi_display_settings_title">Wi-Fi проектор</string>
     <string name="wfd_advanced_titlebar">Настройки</string>
     <string name="wfd_click_here_enjoy_projection">Нажмите, чтобы это принять проекцию дугого устройсва!</string>
     <string name="wfd_start_btn">Старт</string>

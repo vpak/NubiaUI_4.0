@@ -29,7 +29,7 @@
     <string name="nubia_notification_time_one_hour">Час назад</string>
     <string name="nubia_notification_hour_time">%d ч. назад</string>
     <string name="nubia_notification_time_one_hour_one_minute">1 час и 1 минута назад</string>
-    <string name="nubia_notification_hours_one_minute_time">%d 1 часов и 1 минута назад</string>
+    <string name="nubia_notification_hours_one_minute_time">%d часов и 1 минута назад</string>
     <string name="nubia_total_text">всего %s</string>
     <string name="nubia_more_popup_text">ещё</string>
     <string name="nubia_empty_message">Здесь ничего нет</string>
@@ -43,7 +43,7 @@
     <string name="widget_adder">Виджеты</string>
     <string name="toggle_weight_watcher">Сведения о памяти</string>
     <string name="long_press_widget_to_add">Чтобы выбрать виджет, нажмите на значок и удерживайте его.</string>
-    <string name="market">Google Play</string>
+    <string name="market">Play маркет</string>
     <string name="widget_dims_format">%1$d x %2$d</string>
     <string name="widget_dims_second_format">%1$d×%2$d</string>
     <string name="widget_dims_multiplication">×</string>
@@ -140,7 +140,7 @@
     <string name="set_wallpaper">Главный экран</string>
     <string name="set_both">Главный экран и экран блокировки</string>
     <string name="wallpaper_cancel">Отмена</string>
-    <string name="wallpaper_ok">Ok</string>
+    <string name="wallpaper_ok">ОК</string>
     <string name="set_wallpaper_succeed">Успешно применено</string>
     <string name="wallpaper_seting_prompt">Кликните на устройство запуска и установите обои</string>
     <string name="editmode_button_text">Упорядочить</string>
@@ -203,11 +203,20 @@
     <string name="deletedrop_notice_btn_cancel">Отмена</string>
     <string name="theme_app_dismiss">Нет тематического приложения!</string>
     <string name="setting">Настройки</string>
+    <string name="cancel">Отмена</string>
+    <string name="apply">Применить</string>
     <string name="wallpaper_gallery">Галерея</string>
     <string name="wallpaper_live_picker">Каталог живых обоев</string>
     <string name="pick_image">Выбрать обои</string>
     <string name="wallpaper_accessibility_name">Обои %1$d из %2$d</string>
     <string name="pick_wallpaper">Обои</string>
+    <string name="folder_applist_add_button_text">Добавить приложения</string>
+    <string name="folder_cancel_choice_button_text">Отмена</string>
+    <string name="folder_confirm_choice_button_text">ОК</string>
+    <string name="folder_applist_choicing_count_text">КОЛ.</string>
+    <string name="search_hint_text">Искать в интернете, приложениях, контактах, SMS...</string>
+    <string name="web_search_button_cancle">Отмена</string>
+    <string name="neo_icon_tips">Приложение устанавливается и не может быть удалено!</string>
     <string name="app_name">Негатив</string>
     <string name="download_content">Загрузить больше контента в горизонтальном виде</string>
     <string name="download_apk">Загрузить</string>

@@ -33,12 +33,12 @@
     <string name="all_update">Обновить все</string>
     <string name="ignore_update">Отменить</string>
     <string name="cancel_ignore">Напомнить</string>
-    <string name="ignore_softs">Игнорировать обновление приложений </string>
+    <string name="ignore_softs">Игнорируемые обновления </string>
     <string name="incompatible_softs">Приложения с риском </string>
     <string name="current_version">Версия:</string>
     <string name="loading">Загрузка…</string>
-    <string name="arrays_manager1">Обновить</string>
-    <string name="arrays_manager2">Удалить</string>
+    <string name="arrays_manager1">Обнов.</string>
+    <string name="arrays_manager2">Удал.</string>
     <string name="gui_category">Категории</string>
     <string name="gui_recommend">Рекомендуем</string>
     <string name="gui_app">Приложения</string>

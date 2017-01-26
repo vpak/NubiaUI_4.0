@@ -21,32 +21,32 @@
         <item quantity="one">С %1$d цепочки снята пометка</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Цепочки игнорируются: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка игнорируется</item>
+        <item quantity="other">Цепочки игнорируются: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка игнорируется</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Цепочки помечены как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка помечена как спам</item>
+        <item quantity="other">Цепочки помечены как спам: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка помечена как спам</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Цепочки удалены из спама: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка удалена из спама</item>
+        <item quantity="other">Цепочки удалены из спама: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка удалена из спама</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Цепочки помечены как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка помечена как неважная</item>
+        <item quantity="other">Цепочки помечены как неважные: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка помечена как неважная</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Цепочки помечены как фишинг: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка помечена как фишинг</item>
+        <item quantity="other">Цепочки помечены как фишинг: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка помечена как фишинг</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Цепочки архивированы: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка архивирована</item>
+        <item quantity="other">Цепочки архивированы: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка архивирована</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Цепочки удалены: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка удалена</item>
+        <item quantity="other">Цепочки удалены: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> цепочка удалена</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Папки изменены</item>

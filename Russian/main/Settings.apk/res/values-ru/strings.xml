@@ -2671,7 +2671,7 @@
     <string name="nubia_big_deskmode_summary">Простой режим обеспечивает больший текст и ярлыки, упрощает компоновку интерфейса. Это позволяет удобнее использовать телефон.</string>
     <string name="standard_deskmode_summary">Показывать регулярно значки на рабочем столе и текст, и свободно настраивать позиции значков и обои для рабочего стола.</string>
     <string name="done_selected_deskmode">Применить</string>
-    <string name="cancel_select_all">Выбрать отмену</string>
+    <string name="cancel_select_all">Отменить</string>
     <string name="no_contacts">Нет контактов</string>
     <string name="deep_sleep_music_error">Ошибка воспроизведения музыки!</string>
     <string name="selected">Удалить записи</string>
