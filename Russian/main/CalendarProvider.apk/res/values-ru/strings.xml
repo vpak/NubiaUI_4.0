@@ -14,5 +14,5 @@
     <string name="debug_tool_message">Вы собираетесь 1) скопировать БД календаря на SD-карту/USB-накопитель, которые доступны для чтения всем приложениям, и 2) отправить её по e-mail. Не забудьте удалить копию после того, как она будет перенесена с устройства или получена на e-mail.</string>
     <string name="debug_tool_email_sender_picker">Выберете программу для отправки файла</string>
     <string name="debug_tool_email_subject">БД календаря прикреплена</string>
-    <string name="debug_tool_email_body">Прикрепленная БЛ календаря содержит личную информацию, будьте острожны.</string>
+    <string name="debug_tool_email_body">Прикрепленная БД календаря содержит личную информацию, будьте острожны.</string>
 </resources>
