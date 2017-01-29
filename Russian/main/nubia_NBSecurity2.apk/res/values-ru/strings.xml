@@ -112,8 +112,8 @@
     <string name="common_action_mode_title_right_text_unselect">Сбросить выбор</string>
     <string name="dialog_checkbox_tip">Не напоминать</string>
     <string name="app_name">neoSafe</string>
-    <string name="power_manage">Энегосбережение</string>
-    <string name="power_manage_title">Энегосбережение</string>
+    <string name="power_manage">Энергосбережение</string>
+    <string name="power_manage_title">Энергосбережение</string>
     <string name="power_manage_abnormal_power_consumption">Энергопотребители заряда</string>
     <string name="power_manage_power_saving_mode">Режим экономии энергии</string>
     <string name="power_manage_power_consumption_ranking">Рейтинг энергопотребления</string>
