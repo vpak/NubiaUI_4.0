@@ -259,7 +259,7 @@
     <string name="folder_frontcamera">Фронтальная камера</string>
     <string name="folder_panocamera">Панорамная камера</string>
     <string name="save_picture">Сохранить</string>
-    <string name="save_ok">Подвердить сохранение</string>
+    <string name="save_ok">Подтвердить сохранение</string>
     <string name="no_content_picture">Нет изображения</string>
     <string name="no_support_type">Тип файла не поддерживается!</string>
     <string name="photos">Фото</string>
@@ -276,7 +276,7 @@
     <string name="success_copy">Копирование завершено</string>
     <string name="success_cut">Обрезка завершена</string>
     <string name="wallpaper_load_fail">Не удалось загрузить изображение в качестве обоев</string>
-    <string name="crop_wallpaper">Образать обои</string>
+    <string name="crop_wallpaper">Обрезать обои</string>
     <string name="create_info">Был создан виджет!</string>
     <string name="tab_camera">Фото</string>
     <string name="tab_albumset">Галерея</string>
@@ -295,7 +295,7 @@
     <string name="available">Доступно</string>
     <string name="trajectory">Траектория</string>
     <string name="folder_startrail">Просмотр</string>
-    <string name="crystal">Кристал</string>
+    <string name="crystal">Кристалл</string>
     <string name="effect">Спецэффект</string>
     <string name="faceBeautify">Украсить лицо</string>
     <string name="slowShutter">С выдержкой</string>
@@ -315,7 +315,7 @@
     <string name="new_month">Месяц</string>
     <string name="new_day">День</string>
     <string name="num_format">%s</string>
-    <string name="hint_camera">Используйте камеру nubia с мощными функциями, чтобы добавить превосходные картинки в вашу галлерею</string>
+    <string name="hint_camera">Используйте камеру nubia с мощными функциями, чтобы добавить превосходные картинки в вашу галерею</string>
     <string name="button_camera">Перейти сейчас</string>
     <string name="hint_album">На устройстве нет альбомов</string>
     <string name="hint_cloud">"Нет картинок, выберите картинки из Альбома или \"pictures\"
