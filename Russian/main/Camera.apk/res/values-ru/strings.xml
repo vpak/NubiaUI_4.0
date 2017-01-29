@@ -106,7 +106,7 @@ ISO: 1600
     <string name="specification_pro_focus_title1">1.1 Авто фокус</string>
     <string name="specification_pro_focus_title1_context">Авто фокус установлен по умолчанию при запуске камеры. Авто фокус может быстро и точно определить расположение объекта и сделать изображение четким.</string>
     <string name="specification_pro_focus_title2">"1.2  Закрепление фокуса"</string>
-    <string name="specification_pro_focus_title2_context">Назвначение: обеспечить неизменный фокус во время съемки объекта.</string>
+    <string name="specification_pro_focus_title2_context">Назначение: обеспечить неизменный фокус во время съемки объекта.</string>
     <string name="specification_pro_focus_title2_context1">Рамка фокуса</string>
     <string name="specification_pro_focus_title2_context2">Закрепление фокуса</string>
     <string name="specification_pro_focus_title2_context3">Удерживайте кнопку</string>
@@ -115,7 +115,7 @@ ISO: 1600
 Высокоскоростная непрерывная съемка 
 Непрерывная съемка с автоспуском"</string>
     <string name="specification_pro_focus_title3">1.3 Ручной фокус</string>
-    <string name="specification_pro_focus_title3_context">Назвначение: ручная настройка значения фокуса для обеспечения четкости изображения на определенном расстоянии.</string>
+    <string name="specification_pro_focus_title3_context">Назначение: ручная настройка значения фокуса для обеспечения четкости изображения на определенном расстоянии.</string>
     <string name="specification_pro_focus_title3_context1">"1.3.1  предпросмотр ГРИП"</string>
     <string name="specification_pro_focus_title3_context2">В ходе ручной фокусировки, как указано на изображении ниже, места с максимальной концентрацией красного цвета являются точками наилучшего фокуса. Это может помочь фотографу достичь более четкого фокуса.</string>
     <string name="specification_pro_focus_title3_context3">Примеры фотографий</string>
