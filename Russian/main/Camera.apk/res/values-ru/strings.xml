@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="microspur_title">Макро</string>
+    <string name="close_microspur_text">Закрыть</string>
+    <string name="open_microspur_text">Открыть</string>
+    <string name="near_object_tips">Попробуйте с близкого расстояния</string>
+    <string name="st_microspur_manaul_focus">Вручную</string>
     <string name="specification_ready_title">Что необходимо</string>
     <string name="specification_ready_phone">Телефон.</string>
     <string name="specification_ready_tripod">треного</string>
@@ -211,7 +216,7 @@ ISO: 1600
     <string name="clone_clean">Ластик</string>
     <string name="clone_dialog_msg">Вы уверены, что хотите отменить этот снимок?</string>
     <string name="clone_specification_tip">Красная область отображения синтезируется с помощью кисти и ластика, используемых для регулировки области отображения.</string>
-    <string name="dng_title">Dng</string>
+    <string name="dng_title">DNG</string>
     <string name="prettycamera_title">Красивая камера</string>
     <string name="pretty_setting_title">Бьютификатор</string>
     <string name="finish_button_text">Завершить</string>
@@ -368,7 +373,7 @@ ISO: 1600
     <string name="effects_nature">Природа</string>
     <string name="effects_miniature">Миниатюра</string>
     <string name="effects_fisheye">Рыбий глаз</string>
-    <string name="exposuretime_title">Медленный затвор</string>
+    <string name="exposuretime_title">Экспозиция</string>
     <string name="focus_title">Фокус</string>
     <string name="other_settings_show">Показать другие настройки</string>
     <string name="polarizing_filter_title">Фильтр Поляризации</string>
@@ -409,7 +414,7 @@ ISO: 1600
     <string name="video_maker_title">Видеомэйкер</string>
     <string name="pip_title">PIP</string>
     <string name="object_clear_title">Очистка объекта</string>
-    <string name="light_painting_title">Световые рисунки</string>
+    <string name="light_painting_title">Светопись</string>
     <string name="startrack_data_save">Сохранить картинки</string>
     <string name="intervalometer_num_unit">Есть %1$d картинок</string>
     <string name="intervalometer_interval">Интервал времени:</string>
@@ -539,7 +544,7 @@ ISO: 1600
     <string name="pref_snapshot_mirror_entry_off">Выключено</string>
     <string name="pref_snapshot_mirror_entry_on">Включено</string>
     <string name="pref_snapshot_mirror_title">Зеркальный снимок</string>
-    <string name="pref_camera_fno_title">Fno</string>
+    <string name="pref_camera_fno_title">Диафрагма</string>
     <string name="pref_interval_pro_title">Интервал времени:</string>
     <string name="pro_interval">Интервал времени: %d c</string>
     <string name="light_draw_taken">Взято:</string>

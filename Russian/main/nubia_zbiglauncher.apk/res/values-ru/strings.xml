@@ -12,7 +12,7 @@
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="accept">ОК</string>
-    <string name="default_temp">28℃</string>
+    <string name="default_temp">28</string>
     <string name="default_solar">3 Сентября</string>
     <string name="default_lunar">28 Июля</string>
     <string name="default_city">Нанкин</string>
@@ -20,7 +20,7 @@
     <string name="canceled">Отмена</string>
     <string name="lunar">Лунный календарь</string>
     <string name="date_format">dd-MM</string>
-    <string name="light">Вспышка</string>
+    <string name="light">Фонарик</string>
     <string name="fmradio">Калькулятор</string>
     <string name="settings">Настройки</string>
     <string name="camera">Камера</string>

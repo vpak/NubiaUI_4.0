@@ -84,4 +84,5 @@
     <string name="nubia_back_button_label">Назад</string>
     <string name="nubia_next_button_label">Далее</string>
     <string name="nubia_skip_button_label">Пропустить</string>
+    <string name="super_snapshot_multiwindow">Супер скриншот невозможен в данном режиме</string>
 </resources>

@@ -106,7 +106,7 @@
     <string name="common_confirm">Да</string>
     <string name="common_cancle">Нет</string>
     <string name="white_list_delete_message">Удалить из белого списка?</string>
-    <string name="common_action_mode_title_right_text">Выбрать все</string>
+    <string name="common_action_mode_title_right_text">Все</string>
     <string name="common_input_pattern">Нарисуйте графический ключ для защиты личных данных</string>
     <string name="common_pattern_inputunlock">Нарисуйте графический ключ для доступа к личным данным</string>
     <string name="common_action_mode_title_right_text_unselect">Сбросить выбор</string>
@@ -200,7 +200,7 @@
     <string name="add_to_white_list">Добавить в исключения</string>
     <string name="empty_white_list">Здесь ничего нет</string>
     <string name="empty_selectable_app_for_white_list">Нет энергопотребляющих приложений для защиты</string>
-    <string name="white_list_title_text">выбрано: %d</string>
+    <string name="white_list_title_text">Выбрано: %d</string>
     <string name="remove_from_white_list">Удалить из исключений?</string>
     <string name="process_kernel_label">ОС Android</string>
     <string name="power_app_dialog_tip_many">%1$s приложений включает %2$d разрядку в режиме ожидания, вы хотите ограничить энергопотребление и продлить время работы?</string>
@@ -637,7 +637,7 @@
     <string name="traffic_common">Суммарный лимит трафика</string>
     <string name="traffic_suit_in_month">Пакет трафика на месяц</string>
     <string name="start_date_month">Дата отсчета</string>
-    <string name="traffic_free_time">Фоновый режим</string>
+    <string name="traffic_free_time">Фон. режим</string>
     <string name="traffic_suit_free_time">Выделение трафика</string>
     <string name="start_point_free_time">Начало действия</string>
     <string name="end_point_free_time">Окончание действия</string>
@@ -645,7 +645,7 @@
     <string name="traffic_suit_free_time_used">Использовано трафика в режиме ожидания</string>
     <string name="query_from_operator">Запросить у оператора</string>
     <string name="query_from_operator_des">Если вы не знаете свой лимит по трафику, то сделайте запрос у оператора для калибровки.</string>
-    <string name="unit_day"> числа</string>
+    <string name="unit_day">&#160;числа</string>
     <string name="traffic_mobile_data_name">Мобильный интернет</string>
     <string name="traffic_mobile_data_enable_summary">Приложений с доступом в интернет: %1$d</string>
     <string name="traffic_mobile_data_disable_summary">Запрет интернета приложениям %1$d</string>
