@@ -34,7 +34,7 @@
     <string name="save_into">Сохранение видео в %1$s …</string>
     <string name="trimming">Усилить цвет</string>
     <string name="trim">Обрезка</string>
-    <string name="please_wait">Подожите</string>
+    <string name="please_wait">Подождите</string>
     <string name="invalid_trim">Не удается обрезать видео, неправильная настройка</string>
     <string name="io_error">Ошибка ВВ</string>
     <string name="trim_copy">_копия</string>
